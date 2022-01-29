@@ -1,0 +1,2459 @@
+strategy_id;strategy_name
+S1;be
+S3;reach
+S5;advertise be
+S6;spend be
+S7;project reach
+S8;receive type
+S9;mobile advertise be
+S13;see
+S14;ask
+S15;respond
+S16;consumer have
+S17;tap
+S18;person s
+S19;brain —
+S20;conscious brain —
+S23;expend
+S24;activity according
+S25;activity be
+S27;devote
+S29;developing
+S31;require tap
+S32;impression require tap
+S35;neurological activity be
+S36;activity be readily
+S37;eye-tracking
+S40;company be
+S41;extending
+S44;technology work
+S45;predict
+S47;page
+S49;deploy
+S50;feature eye-tracking
+S51;software page
+S52;software page down
+S53;assuage
+S56;company develop
+S57;technology require
+S61;analyse
+S62;resource do
+S63;agency have
+S64;resource do advertiser
+S66;interest consider
+S69;hover
+S74;equivalent hover
+S75;mobile be
+S76;screen pull
+S77;screen pull actually
+S82;signal
+S83;action know
+S84;ios be
+S85;ios be not
+S86;improving
+S88;demand
+S89;role
+S90;ecosystem continue
+S96;publisher benefit
+S99;ad be simply
+S100;benefit
+S103;impression have
+S104;value be
+S105;value be only
+S106;shouldn
+S108;waste
+S110;discount
+S111;impressions shouldn
+S112;t be
+S114;show
+S115;influence
+S116;study show
+S117;impression influence
+S118;platform
+S122;analytics platform
+S123;ad be
+S124;certain ad be
+S126;video
+S127;view
+S128;viewability be
+S129;be view
+S131;need
+S132;help
+S133;gauge
+S134;mean
+S135;technique be
+S136;industry gauge
+S137;impression mean
+S138;viewable impression mean
+S140;flaw
+S142;measurement be
+S144;earn
+S145;rat
+S146;provide
+S147;faf have
+S148;broker rat
+S149;broker provide
+S150;american faf have
+S151;average broker rat
+S153;top
+S154;company report
+S155;quarter top
+S156;post
+S157;firm post
+S159;compare
+S160;business earn
+S161;quarter compare
+S163;revenue wa
+S164;revenue wa up
+S165;anticipate
+S167;analyst anticipate
+S168;disclose
+S170;dividend wa
+S171;quarterly dividend wa
+S173;issue
+S174;record be
+S175;annualized
+S176;represent annualized
+S180;give
+S181;analyst have
+S182;recommendation have
+S183;hold recommendation have
+S185;occur
+S186;news sell
+S187;company ’
+S188;transaction occur
+S189;american news sell
+S192;wa disclose
+S193;file be
+S194;legal file be
+S195;downgrade
+S197;faf be
+S198;american faf be
+S200;subsidiary be
+S201;stock
+S203;add
+S204;probably
+S208;skipper
+S210;bite
+S212;fit
+S213;empathize
+S214;e-mail
+S215;journalist
+S217;announce
+S218;admit
+S221;piece
+S223;way respond
+S224;attentive
+S226;story be
+S227;story
+S230;mobile
+S231;application
+S233;far
+S234;shoe
+S235;several
+S236;so far
+S239;have other
+S240;do have other
+S242;charity
+S245;wa be
+S248;someone ask
+S249;time someone ask
+S252;bath
+S255;salt be
+S256;police
+S259;organise
+S260;from
+S261;couple
+S262;inspire
+S263;story inspire
+S268;word
+S269;be word
+S273;um wa
+S274;event
+S279;welcome
+S280;bigger
+S281;city
+S282;area
+S289;sign
+S291;t know
+S294;lady
+S297;smaller
+S298;steadfastly
+S299;chief
+S301;read chief
+S302;long-term
+S304;indeed
+S308;really
+S309;later really
+S310;detective
+S317;even admit
+S322;personally
+S323;luck
+S324;be luck
+S330;history
+S331;bite history
+S333;intrigue
+S335;hard
+S337;fascinate
+S342;course film
+S345;instance
+S347;exactly
+S349;necessarily
+S353;here
+S355;survivor
+S357;well
+S358;based
+S359;train
+S360;nuclear
+S361;wa train
+S363;finance
+S365;service-support
+S366;premier service-support
+S372;admire
+S375;sometimes
+S377;wasn
+S379;international
+S380;call international
+S383;significantly
+S385;trademarks
+S386;pc
+S388;shoot
+S391;emerge happy
+S392;commit
+S394;duty
+S396;next day
+S399;collapse
+S405;life be
+S406;ever didn
+S407;change ever didn
+S408;hero
+S414;pair
+S417;oriental
+S422;mare
+S431;dress
+S439;information involve
+S440;forward-looking information involve
+S441;proceed
+S444;sale
+S445;information
+S446;more information
+S455;survive
+S456;affiliate survive
+S463;counting
+S464;transgender
+S470;outfit
+S471;occasion
+S474;whole
+S479;often
+S482;hallquist
+S483;christine
+S488;stay friend
+S497;neighbour
+S503;real name
+S513;concern “
+S515;main
+S516;voice
+S517;be main
+S524;have turn
+S530;community
+S532;international community
+S533;agreement
+S535;be get
+S537;oneness
+S540;get people
+S542;force u
+S543;be force u
+S544;alliance
+S547;beast
+S551;so take
+S553;empire
+S554;coffee empire
+S557;standard
+S558;bar
+S559;variety
+S560;feature variety
+S570;fyi
+S571;appropriate
+S575;duo
+S576;dashing duo
+S579;seem be
+S581;unload
+S582;spot unload
+S586;forward-looking information
+S587;also include
+S588;forward-looking
+S590;generally forward-looking
+S591;information be
+S595;actual
+S597;uncertainty other
+S598;forward-looking information be
+S599;reasonable
+S600;estimate
+S603;base reasonable
+S604;be base reasonable
+S605;belief
+S608;reflect such
+S609;expectation reflect such
+S611;team
+S613;collaboratively
+S615;work collaboratively
+S625;was
+S630;citing
+S631;lift
+S632;contempt
+S633;certainly
+S634;recently
+S639;license
+S640;not issue
+S641;marriage license
+S649;chairman
+S658;beacon
+S659;only beacon
+S666;club have
+S676;given side
+S684;oscillate
+S687;trademark
+S688;defiance
+S689;manager
+S690;offering trademark
+S691;evidence
+S694;venue
+S697;say appear
+S700;guest
+S703;numerous
+S713;depression
+S715;convince
+S716;be convince
+S719;sixty-one
+S721;lucky
+S725;feel lucky
+S726;spring
+S727;daughter
+S730;withdrawal
+S735;wa hospital
+S739;realise
+S740;chair
+S741;disorder
+S744;senator
+S748;pelosi-ism
+S749;original
+S750;semi-final
+S753;dream
+S755;angel
+S757;almost
+S759;record
+S762;grandpa
+S766;crack
+S767;bone
+S769;key
+S771;musical
+S772;be musical
+S785;era
+S787;be so
+S789;half-scottish
+S795;ice
+S796;gradually
+S799;album radio
+S800;album radio much
+S807;mess
+S811;motorway
+S812;travelling
+S814;fifty
+S816;giant
+S823;slowly
+S824;sadly
+S827;woman grab
+S830;opponent
+S832;melody
+S833;given
+S839;replay wa
+S841;agonise
+S842;fortune
+S845;seek fortune
+S847;newspaper
+S855;wan
+S857;reiterate
+S858;ing
+S863;traveling
+S870;aircraft also
+S871;however aircraft also
+S873;indicate military
+S874;reports indicate military
+S875;ultimate
+S876;intelligence
+S877;official
+S879;challenge
+S881;maintain
+S882;presence
+S887;fall point
+S890;authorities
+S892;commitment
+S893;longtime
+S895;urge
+S897;helicopters be
+S899;commuter
+S900;service local
+S901;manhunt
+S902;heavily
+S904;lookout
+S905;join search
+S906;sniper lookout
+S907;reports
+S909;32-year
+S912;suggest wa
+S913;helicopter be
+S915;dismiss
+S916;anticipatory
+S917;investigations be
+S926;apt
+S928;price
+S935;magazine “
+S937;magazine/pa
+S939;cusp
+S940;transformation
+S943;freedom
+S944;expression
+S945;curtail freedom
+S946;joint
+S948;arrive
+S950;meal
+S952;sit meal
+S954;week
+S956;purpose
+S957;mission
+S958;memory s
+S959;food
+S960;importance food
+S963;dad
+S967;effectively
+S971;few
+S973;sick
+S976;child be
+S977;more “
+S980;help child
+S984;drug
+S985;nevertheless
+S987;law
+S988;pharmacy
+S989;compound pharmacy
+S992;do be
+S995;voluntary
+S997;registration be
+S998;medical
+S1000;doctor
+S1001;have
+S1002;find
+S1003;compound
+S1005;pharmaceutical
+S1007;manufacturer
+S1008;medication pharmaceutical
+S1009;note
+S1010;prescription
+S1011;most prescription
+S1012;yet
+S1013;most
+S1015;god-fearing
+S1016;self-employed
+S1017;love
+S1018;play
+S1019;friendship
+S1021;thing
+S1022;start
+S1023;little
+S1024;flesh
+S1026;yahoo.co.ukwilliam
+S1027;cute
+S1028;be cute
+S1029;tribe.reach
+S1030;mattwilliam1252
+S1032;recipes be
+S1033;tell u
+S1034;today
+S1036;quite
+S1037;possible
+S1039;due
+S1040;fact
+S1041;secret
+S1042;review
+S1043;transition review
+S1044;convenient transition review
+S1045;put
+S1046;way
+S1047;tendency
+S1048;difficult
+S1049;solve
+S1050;natural
+S1051;say
+S1052;year
+S1053;remind
+S1054;problem
+S1055;not
+S1056;result
+S1057;think
+S1058;do
+S1060;same
+S1062;tremendous
+S1063;first
+S1064;next
+S1065;mutual
+S1069;so
+S1070;contrary
+S1071;especially so
+S1072;analyst
+S1074;course analyst
+S1075;experience
+S1077;long
+S1080;entirely
+S1081;market
+S1082;index
+S1083;only
+S1084;general market
+S1085;contrarian
+S1086;representation
+S1087;well-known
+S1088;refresh
+S1090;final
+S1094;do not
+S1095;state
+S1096;differences
+S1097;further state
+S1099;conclude be
+S1100;marriage
+S1101;commercial
+S1103;same-sex
+S1104;collins
+S1106;fall
+S1108;n't
+S1109;hold
+S1110;seem hold
+S1111;report
+S1112;senior
+S1113;chat
+S1114;jailed
+S1115;lawyer jailed
+S1116;read
+S1118;wa
+S1119;even
+S1120;extremism
+S1121;ironic
+S1122;also
+S1125;achieve
+S1126;actually achieve
+S1127;witch
+S1128;trial
+S1129;answer
+S1130;reason
+S1131;name
+S1132;get
+S1134;just
+S1136;attempt
+S1137;grasp
+S1140;writer
+S1144;nefas
+S1147;go
+S1148;character
+S1149;upgrade
+S1150;focus
+S1151;defendant focus
+S1152;go defendant focus
+S1153;age
+S1157;girl
+S1158;many
+S1159;conspiracy
+S1160;rape conspiracy
+S1162;national
+S1164;sentence
+S1165;sentencing
+S1167;head
+S1170;now
+S1173;game
+S1174;3-and-out
+S1175;wa start
+S1176;hold 3-and-out
+S1178;drive
+S1179;stall drive
+S1180;finally
+S1181;follow
+S1182;people
+S1183;be people
+S1184;grace
+S1185;oral
+S1187;tell
+S1189;live
+S1191;come
+S1196;set
+S1201;create
+S1202;entire
+S1205;doe
+S1206;know
+S1208;together
+S1211;let
+S1214;something
+S1216;listen
+S1217;supporter
+S1218;deal
+S1221;iranian
+S1222;eliminate
+S1223;partner ”
+S1224;agreement iranian
+S1225;remind u
+S1226;view “
+S1227;enemy
+S1228;learn
+S1236;apply
+S1238;look
+S1239;amount
+S1240;debt
+S1242;credit
+S1245;current
+S1247;better
+S1250;country have
+S1251;best
+S1252;known best
+S1253;wall
+S1255;stunning
+S1257;wonderful
+S1258;relaxing
+S1259;fish
+S1261;run
+S1262;youngish
+S1263;be run
+S1264;hatchery be run
+S1265;yes
+S1266;saw
+S1267;improvised
+S1268;driving
+S1269;country
+S1270;keep
+S1272;open
+S1273;going
+S1275;much
+S1277;farm
+S1278;washing
+S1281;afternoon
+S1283;very
+S1285;remain
+S1286;saw remain
+S1287;ruins
+S1291;other
+S1292;huge
+S1293;use
+S1294;assume
+S1295;move
+S1296;last
+S1297;according
+S1298;account
+S1299;late account
+S1300;large
+S1301;latest
+S1303;auditor
+S1304;banker
+S1307;contacted
+S1308;allegation
+S1312;questions
+S1316;swapping
+S1318;australian
+S1319;major
+S1320;ha
+S1321;refuse
+S1324;money
+S1326;malaysian
+S1328;ready
+S1329;wa ready
+S1330;then
+S1331;rancid
+S1335;instead
+S1336;make
+S1338;copy
+S1339;reread
+S1341;ever
+S1342;fifth
+S1343;absence
+S1345;more
+S1346;father
+S1349;most father
+S1350;cent
+S1353;ten
+S1354;only ten
+S1356;parental
+S1357;leave
+S1358;father say
+S1360;pay
+S1363;minimum
+S1364;act
+S1366;once
+S1368;true
+S1369;say n't
+S1370;be true
+S1371;workplace
+S1378;fathers
+S1379;partner
+S1380;dad partner
+S1381;scheme
+S1386;concept
+S1387;being
+S1388;desire
+S1389;canadian
+S1390;support
+S1392;previously
+S1393;division ha
+S1395;usually
+S1397;join
+S1398;s join
+S1400;tough
+S1403;recent
+S1404;member
+S1408;however
+S1411;third
+S1413;again
+S1416;wa go
+S1417;block
+S1421;run play
+S1422;take
+S1423;man
+S1426;lifeguards
+S1427;lifeguard
+S1429;lifeguard say
+S1430;hadn
+S1431;biggest
+S1432;endure
+S1433;closer
+S1434;never
+S1437;maybe
+S1439;part
+S1440;company
+S1443;stock be
+S1444;ray
+S1445;wife
+S1448;fan
+S1449;don
+S1450;editor
+S1451;realize
+S1460;granted
+S1461;truth
+S1464;stay
+S1466;fundraise
+S1467;build
+S1468;ha build
+S1469;sanders
+S1471;element
+S1472;be element
+S1474;month ha
+S1475;primary
+S1476;democratic primary
+S1478;fan have
+S1479;restaurant
+S1480;pancakes
+S1481;mcgriddles
+S1482;sites
+S1483;vintage
+S1484;briefcase
+S1485;style
+S1486;classic briefcase
+S1487;close
+S1490;appreciate
+S1491;socialism
+S1492;does
+S1494;frankly
+S1495;students
+S1498;western
+S1499;economy
+S1500;generally
+S1501;buy
+S1502;sell
+S1503;real
+S1507;day age
+S1508;co-founded
+S1509;offer
+S1510;prestigious
+S1511;most prestigious
+S1512;designee
+S1513;goal
+S1515;be provide
+S1516;estate
+S1517;real estate
+S1518;day
+S1521;addition
+S1523;govision
+S1526;comprise
+S1527;baby
+S1528;believe
+S1529;service
+S1531;boy
+S1532;pain
+S1534;high
+S1537;meanwhile
+S1538;responsibility
+S1539;sticky
+S1540;place sticky
+S1541;app
+S1543;always
+S1545;not be
+S1546;pointer
+S1548;religious
+S1549;executive
+S1551;intend
+S1553;political
+S1555;intimidate
+S1556;continue
+S1557;consume
+S1558;home
+S1559;wildfire consume
+S1560;10-minute
+S1561;juan
+S1563;watch
+S1564;catholics
+S1566;pope
+S1568;authority
+S1569;historically
+S1571;fly
+S1573;host
+S1574;papal
+S1576;turn leave
+S1577;turn
+S1578;aloof
+S1580;route turn
+S1581;monument
+S1583;carry
+S1584;cross carry
+S1585;change
+S1587;way continue
+S1588;way continue yard
+S1589;stile
+S1592;point way
+S1594;drama
+S1595;adrenaline
+S1598;share
+S1599;article
+S1600;there
+S1603;say “
+S1604;volunteer
+S1607;volunteer have
+S1608;group volunteer have
+S1610;recommended
+S1612;determine
+S1617;have be
+S1619;fate
+S1620;waiting
+S1621;equally
+S1623;additional
+S1625;permanent
+S1627;matter
+S1628;thaw
+S1629;renowned
+S1632;such
+S1639;claim
+S1642;launch
+S1643;know ha
+S1644;economically
+S1646;context
+S1649;literally
+S1650;singer
+S1654;meet
+S1656;speak
+S1657;ex-boyfriend
+S1659;childhood
+S1660;coolest
+S1661;highest-ranked
+S1662;entertainer
+S1663;be highest-ranked
+S1666;rapper
+S1668;sue
+S1669;man sue
+S1672;raise
+S1674;plead
+S1676;srt
+S1677;management
+S1678;design
+S1679;format
+S1680;strive
+S1682;english
+S1684;incredibly
+S1685;busy
+S1687;tickets
+S1689;present
+S1690;amazingly
+S1694;former
+S1695;star
+S1696;confirming
+S1697;happy
+S1701;reject
+S1702;question
+S1703;president
+S1704;faith
+S1705;didn
+S1707;t say
+S1708;oddly
+S1709;enough
+S1715;worries
+S1719;be not
+S1722;extremist
+S1724;conservatives
+S1725;want
+S1726;nation
+S1729;doesn
+S1730;process
+S1731;time
+S1732;staff
+S1733;long process
+S1734;same time
+S1735;have staff
+S1737;operation
+S1738;hour
+S1739;long hour
+S1740;above
+S1741;fuck
+S1742;push
+S1743;administration
+S1745;approach
+S1746;range approach
+S1747;regular
+S1748;contact
+S1749;also regular
+S1750;spokesperson
+S1755;declaring
+S1756;slip
+S1759;expect wa
+S1760;expect wa most
+S1762;begin
+S1765;confuse
+S1768;blueprint
+S1769;plot
+S1770;book
+S1771;plan
+S1776;write
+S1777;nothing
+S1778;plot be
+S1779;say never
+S1780;find plot
+S1781;take plan
+S1782;waters say never
+S1783;plot be more
+S1784;say never make
+S1788;flow
+S1794;sit
+S1801;chop
+S1804;wood run
+S1813;develop
+S1814;character think
+S1818;mind 's
+S1819;mind 's just
+S1822;pull
+S1826;page see
+S1827;few page see
+S1829;lean
+S1830;drum
+S1832;guard
+S1836;perfect
+S1837;waters lean
+S1838;finger drum
+S1839;table continue
+S1840;thing guard
+S1841;waters lean back
+S1844;articulate
+S1846;thing want
+S1848;book be
+S1851;page want
+S1852;second page want
+S1854;afraid
+S1856;jot
+S1857;sound
+S1858;down
+S1859;worry
+S1860;come sound
+S1861;revise
+S1863;throw
+S1864;rewrite
+S1865;page rewrite
+S1869;try
+S1870;force
+S1873;fill
+S1874;well be
+S1875;require
+S1878;book require
+S1879;year write
+S1883;crackpot make
+S1885;plunge
+S1886;work
+S1889;feel
+S1890;pop
+S1891;time feel
+S1892;start pop
+S1893;short time feel
+S1894;time feel lose
+S1895;enjoy
+S1896;writer enjoy
+S1902;waters find
+S1903;job do
+S1904;satisfaction feel
+S1905;real job do
+S1906;little satisfaction feel
+S1907;confine 're
+S1908;confine 're never
+S1909;bug
+S1911;forget
+S1918;type
+S1919;manuscript be
+S1920;sister type
+S1921;first manuscript be
+S1926;stop
+S1928;rush
+S1933;waters stop
+S1934;inspiration have
+S1935;desk write
+S1936;sober see
+S1937;ha be
+S1938;cold sober see
+S1939;rotten ha be
+S1942;scrap
+S1944;wa write
+S1945;name wa
+S1946;name wa then
+S1949;produce
+S1950;wa star
+S1953;evolve
+S1954;picture write
+S1956;like
+S1958;people say
+S1961;richness do
+S1962;richness do n't
+S1968;necessitate
+S1969;routine have
+S1970;ask write
+S1971;script necessitate
+S1973;friend
+S1974;author live
+S1975;make friend
+S1976;year make friend
+S1979;instrumental have
+S1981;custom be
+S1982;traditional custom be
+S1987;kid want
+S1988;kid have
+S1989;reservation get
+S1990;white kid have
+S1994;grow
+S1997;publish
+S1998;involve
+S1999;case involve
+S2002;concoct
+S2003;save
+S2004;story save
+S2005;detective story save
+S2008;series be
+S2009;favorite series be
+S2014;waters learn
+S2017;epitomize
+S2018;culture epitomize
+S2019;american culture epitomize
+S2022;break
+S2026;own
+S2028;expected
+S2029;learning
+S2031;aware
+S2032;important
+S2033;explore
+S2034;potential
+S2037;negotiation
+S2038;importance
+S2039;workshop have
+S2040;be aware
+S2041;see benefit
+S2042;solve negotiation
+S2043;understand importance
+S2044;problem solve negotiation
+S2046;obtain
+S2048;attend
+S2049;please
+S2053;allocate
+S2054;request be
+S2055;circumstance be
+S2056;list allocate
+S2057;unforeseen circumstance be
+S2058;wait list allocate
+S2062;disadvantage
+S2063;lose
+S2065;include
+S2066;u provide
+S2067;member include
+S2068;enable u provide
+S2070;postpone
+S2071;cancel
+S2072;happen
+S2073;tutor
+S2075;reimburse
+S2076;note be
+S2077;ha happen
+S2078;strike be
+S2079;ha happen only
+S2082;email
+S2085;re-schedule
+S2086;future email
+S2087;attempt re-schedule
+S2091;online apply
+S2092;workshop please
+S2093;one-day workshop please
+S2095;login
+S2096;register
+S2103;event have
+S2104;applicant be
+S2105;successful applicant be
+S2112;represent
+S2114;work ’
+S2115;client be
+S2119;appear
+S2120;post appear
+S2121;post appear first
+S2123;workshop give
+S2126;improve
+S2127;process help
+S2128;prepare
+S2129;gather
+S2131;negotiate
+S2133;grind
+S2135;negotiation prepare
+S2136;information need
+S2137;principled negotiation prepare
+S2138;negotiation prepare effectively
+S2143;workshop include
+S2144;exercise provide
+S2145;opportunity try
+S2146;practical exercise provide
+S2152;agree
+S2153;regret
+S2154;anyone need
+S2155;past agree
+S2159;qualifications require
+S2160;qualification be
+S2161;specific qualification be
+S2164;enhancement include
+S2165;solution help
+S2167;enhancement support
+S2170;conjunction provide
+S2171;source include
+S2172;reduce
+S2173;optimize
+S2174;help reduce
+S2175;environment optimize
+S2176;allow
+S2177;device allow
+S2178;smart device allow
+S2179;send
+S2182;address
+S2184;capability help
+S2185;prepare address
+S2186;say senior
+S2187;gain
+S2188;communication
+S2189;proactive
+S2190;actionable
+S2191;dynamic
+S2192;world
+S2193;organization gain
+S2194;real-time communication
+S2195;more proactive
+S2196;leader actionable
+S2197;drive real-time communication
+S2198;employ more proactive
+S2199;more proactive approach
+S2201;action
+S2203;anticipate respond
+S2204;take action
+S2205;make more
+S2209;platform be
+S2213;solution be
+S2216;vision be
+S2218;contain
+S2220;release contain
+S2221;statement include
+S2222;forward-looking statement include
+S2225;base
+S2227;cause
+S2228;differ
+S2229;imply
+S2230;statement be
+S2231;performance be
+S2232;expectation involve
+S2233;assumption cause
+S2234;result differ
+S2235;express imply
+S2236;forward-looking statement be
+S2237;future performance be
+S2238;actual result differ
+S2239;statement be not
+S2240;result differ materially
+S2243;factor see
+S2244;filing make
+S2245;other filing make
+S2249;update
+S2253;release be
+S2254;law assume
+S2255;obligation update
+S2260;mention be
+S2261;face
+S2263;surround
+S2264;death
+S2265;circumstance surround
+S2266;baby death
+S2269;too
+S2272;investigation
+S2274;right
+S2276;hospital
+S2277;upset
+S2278;staff hospital
+S2279;birth
+S2281;give birth
+S2282;partner leave
+S2283;baby partner leave
+S2285;blood
+S2288;related
+S2290;petition
+S2291;hope
+S2293;express
+S2294;cover express
+S2295;still
+S2302;heart
+S2308;marriage work
+S2312;work saw
+S2316;care
+S2318;day say
+S2322;foster
+S2323;talk
+S2324;kid be
+S2325;bring foster
+S2326;do talk
+S2327;care do talk
+S2328;kid be more
+S2331;snowball ’
+S2332;snowball ’ ve
+S2333;die
+S2334;woman s
+S2335;58-year-old woman s
+S2337;felt
+S2346;outweigh
+S2347;have. say
+S2349;couldn
+S2352;ve have
+S2353;case couldn
+S2354;handle say
+S2356;possibly
+S2358;everything possibly
+S2369;blossom
+S2371;call have
+S2374;recognise
+S2377;accept
+S2380;leader say
+S2381;ability accept
+S2382;child come
+S2386;pass
+S2387;skill have
+S2388;incredible skill have
+S2390;describe
+S2396;woman provide
+S2397;child have
+S2398;incredible woman provide
+S2400;place
+S2405;house be
+S2409;child
+S2415;executive say
+S2416;woman open
+S2417;house child
+S2418;chief executive say
+S2419;extraordinary woman open
+S2424;support say
+S2425;unconditional support say
+S2429;repair
+S2431;home child
+S2435;were.
+S2436;funeral
+S2437;celebrate
+S2438;kind
+S2441;world love
+S2442;attend s
+S2443;remember kind
+S2444;wa always
+S2445;wa always do
+S2446;heartwarming
+S2451;wa take
+S2459;break get
+S2460;family say
+S2461;break get away
+S2471;wonderful care
+S2472;everybody wa
+S2473;with. say
+S2474;plan continue
+S2475;work wa
+S2478;ring
+S2480;dignity tell
+S2481;son live
+S2482;quiet dignity tell
+S2490;new
+S2491;door
+S2497;be nothing
+S2498;come home
+S2499;see new
+S2500;walk door
+S2502;d say
+S2504;face walk door
+S2507;week turn
+S2508;bring
+S2511;family bring
+S2512;way bring
+S2513;same way bring
+S2519;son drive
+S2523;seat say
+S2524;front seat say
+S2530;light look
+S2531;road see
+S2532;wonder
+S2533;story ..
+S2534;confusing
+S2536;become
+S2537;year make
+S2538;news become
+S2539;few year make
+S2541;wa wa
+S2547;recall
+S2551;justice
+S2552;troop help
+S2553;american troop help
+S2554;release
+S2559;troop have
+S2560;partner help
+S2561;unsavory partner help
+S2562;working
+S2566;topple
+S2567;trigger
+S2568;force have
+S2571;central force have
+S2577;ha make
+S2581;rebel be
+S2582;rebel be actually
+S2585;condemn
+S2588;talk say
+S2589;terrorism wa
+S2590;due terrorism wa
+S2593;someone be
+S2597;disaster be
+S2599;democracy be
+S2601;result be
+S2604;group ha
+S2605;group be
+S2606;group be clearly
+S2608;democracy
+S2612;rig
+S2614;war be
+S2616;system produce
+S2621;trust
+S2622;refrain
+S2627;strength be
+S2628;religion be
+S2629;organization be
+S2630;one ha
+S2631;competence keep
+S2632;function keep
+S2633;political organization be
+S2634;only one ha
+S2635;basic competence keep
+S2636;rule
+S2637;be rule
+S2638;effect
+S2639;stupid
+S2641;rule stupid
+S2642;people be
+S2644;undermine
+S2645;legitimacy
+S2646;soon
+S2647;power
+S2648;supply
+S2649;inferior
+S2650;figure
+S2653;hopeful
+S2655;athlete hopeful
+S2659;element be
+S2660;specific
+S2662;example specific
+S2663;resource be
+S2665;ease use
+S2667;available
+S2668;visit
+S2669;please visit
+S2671;design provide
+S2672;total
+S2675;two-time
+S2676;gold
+S2678;excite
+S2679;together excite
+S2681;program
+S2683;non-profit
+S2684;vision
+S2688;align
+S2689;strengthen align
+S2690;world-leading
+S2691;support world-leading
+S2693;partnership be
+S2696;body
+S2697;loading
+S2698;debate
+S2704;ll
+S2705;deputy
+S2706;resolution
+S2707;republican resolution
+S2708;block republican resolution
+S2709;photo
+S2711;photo former
+S2712;european
+S2715;vote
+S2717;disgrace vote
+S2721;it.
+S2726;social
+S2730;don ’ t
+S2731;song
+S2732;sing
+S2733;have song
+S2734;wed
+S2740;orders
+S2741;surrender
+S2742;inning surrender
+S2743;déjà
+S2745;leadoff
+S2747;apparently
+S2748;wa apparently
+S2754;director communication
+S2756;end
+S2758;husband
+S2759;describing
+S2760;attention
+S2761;celebrity attention
+S2763;appearance
+S2764;dressed
+S2765;39-year-old
+S2766;pooper 39-year-old
+S2769;color
+S2773;says
+S2776;chance
+S2780;win
+S2781;22-year-old come
+S2783;spokesman
+S2786;originally wife
+S2788;fear
+S2792;allege
+S2793;reportedly allege
+S2794;bank
+S2795;balance bank
+S2798;obviously
+S2799;perhaps
+S2801;especially
+S2803;question perhaps
+S2804;bank especially
+S2805;emerge market
+S2806;actually
+S2807;probe
+S2808;regulator
+S2809;part probe
+S2810;gold regulator
+S2811;instead gold regulator
+S2813;claim part
+S2814;source claim part
+S2816;website note
+S2818;conclude
+S2820;reality
+S2822;hence
+S2823;localism
+S2825;interest
+S2826;bewilder
+S2831;press
+S2832;adoption
+S2836;testify
+S2837;set testify
+S2839;typically
+S2841;seem
+S2842;people seem
+S2843;originally
+S2844;foreign
+S2845;key foreign
+S2847;decision be
+S2849;founder
+S2850;idnext
+S2851;next-line
+S2855;seller amount
+S2856;pay seller amount
+S2857;annual
+S2858;case annual
+S2859;performance
+S2861;certain
+S2864;subject certain
+S2865;uncertainty cause
+S2867;uncertainty include
+S2868;incorporate
+S2870;yuval
+S2871;inventory
+S2872;complex
+S2873;unfortunately
+S2874;heavy
+S2875;individual
+S2877;shortcoming
+S2880;strengthening
+S2881;peacekeeping
+S2883;humanitarian
+S2884;broad
+S2886;increasingly
+S2889;ago first
+S2892;beauty
+S2894;surprisingly
+S2896;also be
+S2897;oil
+S2900;fell
+S2901;gouge
+S2903;commodity
+S2906;laissez-faire
+S2907;clear laissez-faire
+S2909;permafrost thaw
+S2911;high-level
+S2912;other high-level
+S2913;all-too-real
+S2920;purely
+S2923;clear
+S2925;concern
+S2931;xi
+S2932;anyone
+S2934;serve
+S2935;be serve
+S2936;govern
+S2938;cloud
+S2942;unique
+S2943;success
+S2944;core success
+S2948;currently
+S2949;democratic
+S2955;easy
+S2956;military
+S2959;afterwards
+S2961;defence
+S2962;embrace
+S2967;case
+S2970;await
+S2971;notebook
+S2972;seventy-eight-year-old
+S2973;hundreds
+S2974;solicitor
+S2975;mainly
+S2976;be mainly
+S2979;qsr
+S2980;rate
+S2982;asset
+S2983;further asset
+S2985;syief
+S2986;strong
+S2993;gradual
+S2994;given gradual
+S2995;moreover
+S2998;waning
+S2999;print
+S3002;persistency
+S3004;lower
+S3006;pbsff
+S3007;confrontations
+S3008;kid
+S3010;peer
+S3011;series
+S3012;wildly
+S3013;recipe
+S3014;life
+S3016;local
+S3019;short
+S3020;stop short
+S3021;aren
+S3022;hear
+S3024;commend
+S3027;confront
+S3028;brutal
+S3034;device
+S3035;own device
+S3039;progress
+S3040;fortunately
+S3043;month
+S3044;only month
+S3045;exports
+S3047;film be
+S3051;embed
+S3052;alongside
+S3054;film
+S3055;explain
+S3057;late
+S3058;play late
+S3061;extraordinary
+S3063;choose
+S3065;investigate
+S3066;car
+S3067;be investigate
+S3068;pilot
+S3070;crash
+S3072;crash pilot
+S3073;plane crash
+S3074;pilot wife
+S3075;plane crash pilot
+S3076;plane
+S3077;small plane
+S3078;sister
+S3079;shoot sister
+S3080;lane
+S3082;attack
+S3083;passenger
+S3084;updated
+S3085;bus
+S3086;suspend be
+S3087;passenger updated
+S3088;passenger updated 2015-09-01
+S3089;driver
+S3090;bus driver
+S3092;local high
+S3093;visit local high
+S3095;inside
+S3096;recover
+S3098;baby inside
+S3100;search
+S3101;woman
+S3102;custody
+S3104;police woman
+S3105;suspect custody
+S3106;police woman shoot
+S3108;volunteers
+S3109;shift
+S3110;books
+S3115;wish give
+S3125;invite
+S3128;woman be
+S3129;notice be
+S3130;woman be only
+S3133;increase
+S3134;speaker be
+S3135;woman have
+S3136;few speaker be
+S3138;reason think
+S3139;noble reason think
+S3143;front ’
+S3144;boy be
+S3145;boy be there
+S3150;men have
+S3155;veteran say
+S3156;duty be
+S3158;catch
+S3161;woman get
+S3162;get catch
+S3164;backtrack
+S3165;opposed
+S3167;leader have
+S3168;membership do
+S3169;many membership do
+S3172;minute show
+S3174;away
+S3178;soldier
+S3179;yearbook say
+S3180;be away
+S3181;break soon
+S3182;be away country
+S3183;break soon get
+S3190;have long
+S3191;wa force
+S3192;say press
+S3193;have long express
+S3198;husband get
+S3199;suffer
+S3200;election suffer
+S3205;issue have
+S3206;political issue have
+S3207;issue have n't
+S3211;reveal
+S3212;office
+S3213;article reveal
+S3217;franchise be
+S3218;limited franchise be
+S3219;franchise be very
+S3222;catch be
+S3223;many catch be
+S3225;hide
+S3226;lesser
+S3230;have find
+S3231;trick give
+S3237;leader wa
+S3238;way let
+S3239;men vote
+S3240;fight men vote
+S3253;marry
+S3255;month be
+S3257;claing
+S3259;lie
+S3261;narrative
+S3267;cover
+S3269;furies cover
+S3270;suffragists cover
+S3271;canadian suffragists cover
+S3275;warn
+S3278;book happen
+S3279;wa meet
+S3280;woman live
+S3281;many woman live
+S3282;woman live there
+S3284;float
+S3285;claim wa
+S3286;one float
+S3289;eat
+S3291;campaign get
+S3294;proportion be
+S3295;high proportion be
+S3296;nursing
+S3297;having
+S3298;wondering
+S3303;day have
+S3304;boob be
+S3305;endless day have
+S3306;boob be ever
+S3312;harm
+S3313;tell be
+S3314;body be
+S3315;own body be
+S3321;preying
+S3325;campaign be
+S3326;campaign be silly
+S3329;problem be
+S3338;wrack
+S3339;picture be
+S3346;earth be
+S3347;time make
+S3350;reality be
+S3351;breastfeeding
+S3355;struggle
+S3357;baby be
+S3362;nurse
+S3364;expect
+S3367;suppose
+S3370;meal think
+S3371;healthy meal think
+S3373;slab
+S3375;tie
+S3379;baby try
+S3380;first baby try
+S3383;paternity leave
+S3386;long paternity leave
+S3389;mum worry
+S3390;new mum worry
+S3391;mum worry about
+S3393;hit
+S3397;kid have n't
+S3398;ditch
+S3404;scaremongering
+S3407;mum focus
+S3408;new mum focus
+S3414;oversee
+S3418;midwife oversee
+S3419;thing eat
+S3420;burger be
+S3421;only thing eat
+S3423;advocate
+S3428;grab
+S3429;apple be
+S3432;overhaul
+S3434;time overhaul
+S3435;diet become
+S3437;whilst 're
+S3438;swallow
+S3439;pill swallow
+S3445;concern 're
+S3446;way help
+S3447;period doe
+S3450;year be
+S3453;encourage
+S3458;pharmacy ask
+S3459;local pharmacy ask
+S3461;debate be
+S3462;debate be no
+S3465;miracle find
+S3466;gorge
+S3467;live 'm
+S3468;much live 'm
+S3469;live 'm not
+S3471;bland
+S3472;salad be
+S3473;salad be n't
+S3476;roast
+S3477;potato
+S3478;prepare once
+S3479;prepare once 've
+S3482;alternate
+S3483;deserve
+S3485;surviving
+S3486;blog surviving
+S3488;perform
+S3491;straddle
+S3492;sacred
+S3493;scene go
+S3494;s “
+S3495;album straddle
+S3496;line sacred
+S3497;double-platinum album straddle
+S3498;spawn
+S3500;is
+S3501;debut
+S3502;hit live
+S3504;spark
+S3506;typical
+S3507;three-minute
+S3508;gold spark
+S3509;radio hit
+S3511;provided
+S3513;knows
+S3514;discus
+S3516;receive
+S3519;miscarriage
+S3520;photo provided
+S3521;album ”
+S3522;record knows
+S3523;comfort say
+S3524;time lose
+S3525;year lose
+S3526;baby miscarriage
+S3527;new record knows
+S3528;recent year lose
+S3530;tickets s
+S3533;locate
+S3536;coordinate
+S3537;relate
+S3539;strain
+S3540;czar coordinate
+S3542;reflect
+S3545;comply
+S3546;committee say
+S3547;appointment reflect
+S3548;admission have
+S3549;admission have not
+S3550;adding
+S3554;compliance
+S3555;bureaucracy address
+S3556;arrangement mean
+S3558;proof be
+S3561;officials say
+S3563;revamp
+S3564;effort revamp
+S3565;major effort revamp
+S3567;prevent
+S3568;enter
+S3569;lead
+S3570;time show
+S3571;terrorist enter
+S3572;future lead
+S3574;retire
+S3578;post wa
+S3579;application follow
+S3580;air have
+S3581;travel
+S3582;attempt travel
+S3583;attempt travel abroad
+S3589;month have
+S3590;past month have
+S3596;investigation say
+S3597;bureau
+S3599;vet
+S3605;addition bureau
+S3606;personnel have
+S3607;lawsuit keep
+S3608;other personnel have
+S3609;various lawsuit keep
+S3610;personnel have also
+S3612;request
+S3613;department be
+S3614;meet request
+S3616;pile
+S3617;requests be
+S3618;requests be also
+S3620;task
+S3622;addition investigate
+S3623;ha task
+S3624;say take
+S3625;official say take
+S3635;be n't
+S3636;be n't cooperate
+S3639;document
+S3642;redact
+S3645;classify
+S3646;meet document
+S3647;process ha
+S3648;failure redact
+S3649;information include
+S3650;say be
+S3651;sensitive information include
+S3657;personnel vet
+S3658;classification upgrade
+S3659;seek
+S3660;balance
+S3661;ensure
+S3663;try ensure
+S3666;deficit
+S3668;quota set
+S3669;hop
+S3671;say hop
+S3672;appointment give
+S3673;official say hop
+S3676;clean
+S3677;tape need
+S3678;red tape need
+S3680;cross
+S3681;cut
+S3685;someone cross
+S3686;bureau get
+S3687;information clear
+S3688;information clear soon
+S3691;volume be
+S3692;volume be not
+S3695;triple
+S3699;official say
+S3700;document have
+S3701;office process
+S3703;small office process
+S3705;request ha
+S3706;request ha not
+S3709;overwhelm
+S3710;resourced
+S3711;view be
+S3712;process be
+S3717;process want
+S3718;sclerotic process want
+S3719;ha be fairly
+S3726;implement
+S3727;system
+S3728;addition ensure
+S3729;document be
+S3730;manner be
+S3731;sector implement
+S3732;improve system
+S3733;timely manner be
+S3734;private sector implement
+S3735;technology improve system
+S3738;annoy
+S3740;department ha
+S3751;prompt
+S3752;part ha
+S3753;server have
+S3758;add be
+S3759;servant have
+S3760;official add be
+S3761;public servant have
+S3762;add be also
+S3763;call
+S3764;drag
+S3766;accuse
+S3767;chair have
+S3769;dedicate
+S3770;resolve
+S3774;agency be
+S3775;request expect
+S3776;fashion say
+S3777;rapid fashion say
+S3780;reason ’
+S3781;reason ’ m
+S3783;growing
+S3787;football
+S3789;be ironic
+S3791;graduate
+S3793;mother ’
+S3794;class graduate
+S3795;co-ed class graduate
+S3807;weren
+S3809;thanksgiving have
+S3810;game weren
+S3815;spend
+S3816;remember
+S3817;name become
+S3818;time remember
+S3824;degree
+S3825;order spend
+S3826;time have
+S3829;job work
+S3831;teach
+S3832;coach
+S3835;return
+S3839;itch get
+S3840;coach say
+S3841;itch get back
+S3845;principal spend
+S3846;assistant principal spend
+S3848;fall become
+S3849;question ’
+S3850;rank
+S3854;serf
+S3863;student
+S3864;s student
+S3865;year s student
+S3868;school offer
+S3869;student graduate
+S3870;mean student graduate
+S3871;student graduate much
+S3875;gift
+S3877;meet discus
+S3881;school be
+S3882;secret school be
+S3885;guy
+S3887;job.
+S3888;tradition
+S3889;understand
+S3890;different
+S3891;cat.
+S3892;repeatedly
+S3893;be stay
+S3894;let guy
+S3895;freshman “
+S3896;here understand
+S3897;table repeatedly
+S3898;here understand be
+S3906;alumnus have
+S3907;you. ”
+S3909;minorities make
+S3912;environment feel
+S3913;daughter –
+S3916;wife be
+S3923;this.
+S3925;unassuming
+S3927;position do
+S3933;notepad ’
+S3935;someone
+S3936;top ’
+S3939;inspire someone
+S3940;interview ’ s
+S3943;faith say
+S3948;everything come
+S3949;faith make
+S3950;reason be
+S3955;search do
+S3956;nationwide search do
+S3957;humility
+S3958;be humility
+S3959;quality be humility
+S3963;seriously.
+S3965;mention
+S3967;very seriously.
+S3968;journey prestigious
+S3969;scant mention
+S3970;take very seriously.
+S3971;make scant mention
+S3972;very seriously. ”
+S3975;loath
+S3978;principal seem
+S3979;principal seem mystify
+S3980;re
+S3982;search become
+S3983;nationwide search become
+S3984;tour
+S3986;house say
+S3987;property 're
+S3988;multiple property 're
+S3991;approve
+S3992;palardy say
+S3993;official get
+S3994;board approve
+S3996;consider
+S4001;town ha
+S4002;unit be
+S4003;rental unit be
+S4011;transform
+S4016;property wa
+S4017;market say
+S4018;property wa n't
+S4022;hint
+S4025;sale say
+S4026;pursuit hint
+S4027;something do
+S4028;new pursuit hint
+S4030;couple sell
+S4031;extend
+S4033;fire extend
+S4034;roof say
+S4035;heavy fire extend
+S4036;roof say earlier
+S4039;inquiry say
+S4040;several inquiry say
+S4043;relocate
+S4044;residents have
+S4052;house be not
+S4056;convert
+S4058;property convert
+S4060;entertain
+S4063;place 're
+S4072;couple be
+S4073;property be
+S4079;employee be
+S4080;employee be still
+S4085;operate
+S4087;wa know
+S4088;elect
+S4091;wake
+S4092;minister elect
+S4093;promise focus
+S4094;prime minister elect
+S4096;label
+S4098;opposition wa
+S4099;mansion wa
+S4100;pink mansion wa
+S4103;convulse
+S4104;backroom
+S4105;shake
+S4106;public
+S4107;leader be
+S4108;ha recent
+S4109;be convulse
+S4110;have shake
+S4111;instability ha recent
+S4112;year be convulse
+S4113;depose
+S4114;mandate depose
+S4115;strong mandate depose
+S4116;reporting
+S4117;dollar reporting
+S4118;oust
+S4120;vote oust
+S4121;entrepreneur be
+S4122;entrepreneur be hugely
+S4125;prosperity
+S4126;reporter
+S4128;optimism be
+S4129;ensure prosperity
+S4130;fill optimism be
+S4133;cope
+S4134;poll show
+S4135;struggle cope
+S4140;turnbull
+S4142;widely
+S4145;statement
+S4146;medium
+S4147;single statement
+S4152;corbynites
+S4154;paper believe
+S4155;rightwing
+S4158;dealing be
+S4159;engage
+S4160;wa engage
+S4162;sweat
+S4167;guarantee
+S4172;sophomore
+S4173;side
+S4178;super-state senior
+S4180;victory become
+S4181;6-foot-2
+S4187;be final
+S4199;caveat
+S4201;introduce find
+S4202;order here
+S4203;big caveat
+S4204;kit 's also
+S4207;have such
+S4212;nice thing
+S4215;family people
+S4216;have family people
+S4217;refrigerator
+S4224;lot
+S4227;example
+S4229;flavor
+S4230;different flavor
+S4236;setting
+S4238;point
+S4248;good
+S4251;tutorial get
+S4253;graphical
+S4263;object
+S4264;similar object
+S4273;foray
+S4276;free
+S4278;simple
+S4279;create simple
+S4280;system create simple
+S4284;eclipse
+S4285;class
+S4286;be class
+S4289;compiler
+S4293;audience
+S4300;teen
+S4301;firmly
+S4302;chairwoman firmly
+S4303;vice
+S4304;labor-intensive
+S4306;s labor-intensive
+S4310;shrug call
+S4316;honest
+S4317;hot
+S4319;news
+S4322;conservative
+S4323;force s
+S4324;help force s
+S4326;run “
+S4327;ha run “
+S4330;comment
+S4331;recent comment
+S4332;insist
+S4336;few state
+S4337;ordinance
+S4338;local ordinance
+S4342;type think
+S4347;holdout
+S4349;surprise
+S4352;presidential
+S4353;socially
+S4356;french
+S4359;town
+S4360;folk town
+S4364;behoove
+S4365;forum
+S4366;board
+S4368;member help
+S4372;special ha
+S4375;particular
+S4378;anytime have
+S4387;everything
+S4388;pryor
+S4392;definitely
+S4395;back
+S4396;past
+S4397;look back
+S4402;ab
+S4405;hibernate
+S4407;http
+S4417;m go
+S4420;family
+S4422;develop program
+S4424;goal be
+S4430;raise.me
+S4435;radio
+S4437;ey
+S4443;australian release
+S4448;be continue
+S4449;formal
+S4450;be formal
+S4453;cap
+S4454;look cap
+S4456;director
+S4458;government
+S4463;following
+S4469;uncle be
+S4470;finish raise
+S4471;child do
+S4472;same finish raise
+S4473;righteous child do
+S4476;climb
+S4477;escape
+S4480;rope climb
+S4481;window escape
+S4482;child love
+S4483;open window escape
+S4486;rise
+S4487;dust
+S4492;u “
+S4493;destiny be
+S4494;time rise
+S4495;token be
+S4496;weakness be
+S4497;same token be
+S4498;give weakness be
+S4499;destiny be not
+S4500;time rise up
+S4505;prophet write
+S4506;men come
+S4507;ancient prophet write
+S4511;humble
+S4517;grace be
+S4518;men humble
+S4519;humble grace be
+S4520;sufficient men humble
+S4522;unto
+S4524;me—the
+S4525;message
+S4526;show unto
+S4527;bringeth me—the
+S4528;beautiful message
+S4532;hand be
+S4533;hand be so
+S4535;fight
+S4536;purpose fight
+S4537;purpose fight back
+S4541;suck
+S4542;leaf
+S4543;ourselves leaf
+S4548;theater use
+S4549;statement have
+S4550;friend saw
+S4554;over
+S4556;phrase help
+S4557;adversary over
+S4562;enemy be
+S4565;leader keep
+S4566;religious leader keep
+S4570;stand
+S4573;ephesians say
+S4575;love u
+S4576;keep faith
+S4577;friend love u
+S4582;thy
+S4584;order provide
+S4585;faithful
+S4586;remain.
+S4590;tear
+S4592;change faithful
+S4593;page sing
+S4599;month wa
+S4600;message receive
+S4601;last month wa
+S4603;tempt
+S4605;message be
+S4606;everyone tempt
+S4607;weakness know
+S4608;u weakness know
+S4609;weakness know best
+S4611;able
+S4613;physical
+S4614;manifestation
+S4616;scar
+S4618;be physical
+S4619;u down
+S4620;debilitate scar
+S4621;beat be not
+S4622;drag u down
+S4623;be not best
+S4632;offence commit
+S4633;girlfriend lose
+S4634;pointing
+S4639;insurance say
+S4640;third-party insurance say
+S4644;address s
+S4645;man have
+S4648;student commit
+S4649;teenage student commit
+S4654;swerve
+S4655;mount
+S4656;midnight lose
+S4657;car cause
+S4663;fling
+S4664;friend have
+S4665;men be
+S4671;today wa
+S4672;reveal have
+S4673;drug include
+S4675;effect include
+S4679;speed
+S4681;court have
+S4682;wa part
+S4685;fact wa
+S4686;drug be
+S4688;precious
+S4689;investment
+S4690;countless
+S4694;be precious
+S4695;perform task
+S4696;shouldn ’
+S4697;be do
+S4698;t be do
+S4703;strategy include
+S4704;efficiency be
+S4705;most important
+S4706;details.3 driving
+S4707;objective –
+S4708;most important growth
+S4710;boost
+S4712;outsource
+S4715;intend show
+S4716;size boost
+S4717;technique make
+S4718;delegate outsource
+S4719;problem-solving technique make
+S4720;kick
+S4721;building
+S4723;webcast building
+S4724;efficiency drive
+S4728;advisors register
+S4729;workshop explore
+S4730;regional workshop explore
+S4733;workshop take
+S4734;place follow
+S4735;first workshop take
+S4737;running
+S4739;paper running
+S4740;business show
+S4741;perspective paper running
+S4742;efficient business show
+S4745;tdameritrade.com
+S4746;businessperformance tdameritrade.com
+S4749;firm be
+S4750;unaffiliated firm be
+S4751;firm be not
+S4755;team allow
+S4756;advisor run
+S4757;avoiding
+S4760;advisor take
+S4761;responsibility spend
+S4766;advisor turn
+S4767;education make
+S4771;decide
+S4774;client want
+S4775;control help
+S4777;recognize
+S4779;reserve
+S4780;right reserve
+S4781;source right reserve
+S4784;ria
+S4785;top-line
+S4786;management set
+S4787;priority be
+S4788;show ria
+S4789;improve top-line
+S4790;firm improve top-line
+S4794;operation achieve
+S4795;streamline operation achieve
+S4796;tracking
+S4797;track
+S4799;program track
+S4800;time devote
+S4801;much time devote
+S4805;evaluate
+S4806;advisor better
+S4807;time evaluate
+S4808;scrutinize
+S4811;doing
+S4813;incoming
+S4819;leaving
+S4820;unfinished
+S4822;identify
+S4826;advisor scrutinize
+S4827;day find
+S4828;trap doing
+S4829;task be
+S4830;socialize incoming
+S4831;travel ’
+S4832;productivity-killers be
+S4833;advisor improve
+S4834;role say
+S4835;task unfinished
+S4836;advisor identify
+S4837;distraction create
+S4838;plan make
+S4839;focus more
+S4840;much socialize incoming
+S4841;many productivity-killers be
+S4842;much advisor identify
+S4843;task unfinished not
+S4845;arise
+S4847;ability
+S4850;overall
+S4851;distraction arise
+S4852;life become
+S4853;accomplish goal
+S4854;be first
+S4855;increase overall
+S4856;daily life become
+S4861;specify
+S4866;number
+S4868;office have
+S4869;time turn
+S4870;example consider
+S4871;reserve specify
+S4872;visitors. be
+S4873;do more
+S4874;inspire look
+S4875;hard time turn
+S4876;people be frequently
+S4877;time turn away

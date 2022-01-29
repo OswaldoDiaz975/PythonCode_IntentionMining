@@ -1,0 +1,2503 @@
+strategy_num;strategy_name;rule_name
+1;be;{VERB}
+2;reach;{VERB}
+3;advertise be;"{""NOUN VERB""}"
+4;spend be;"{""NOUN VERB""}"
+5;project reach;"{""NOUN VERB""}"
+6;receive type;"{""NOUN VERB""}"
+7;mobile advertise be;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+8;see;{VERB}
+9;ask;{VERB}
+10;respond;{VERB}
+11;consumer have;"{""NOUN VERB""}"
+12;tap;{VERB}
+13;person s;"{""NOUN VERB""}"
+14;brain —;"{""NOUN VERB""}"
+15;conscious brain —;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+16;expend;{VERB}
+17;activity according;"{""NOUN VERB""}"
+18;activity be;"{""NOUN VERB""}"
+19;devote;{VERB}
+20;developing;{VERB}
+21;require tap;"{""NOUN VERB""}"
+22;impression require tap;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+23;neurological activity be;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+24;activity be readily;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+25;eye-tracking;{VERB}
+26;company be;"{""NOUN VERB""}"
+27;extending;{VERB}
+28;technology work;"{""NOUN VERB""}"
+29;predict;{VERB}
+30;page;{VERB}
+31;deploy;{VERB}
+32;feature eye-tracking;"{""NOUN VERB""}"
+33;software page;"{""NOUN VERB""}"
+34;software page down;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+35;assuage;{VERB}
+36;company develop;"{""NOUN VERB""}"
+37;technology require;"{""NOUN VERB""}"
+38;analyse;{VERB}
+39;resource do;"{""NOUN VERB""}"
+40;agency have;"{""NOUN VERB""}"
+41;resource do advertiser;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+42;interest consider;"{""NOUN VERB""}"
+43;hover;{VERB}
+44;equivalent hover;"{""NOUN VERB""}"
+45;mobile be;"{""NOUN VERB""}"
+46;screen pull;"{""NOUN VERB""}"
+47;screen pull actually;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+48;signal;{VERB}
+49;action know;"{""NOUN VERB""}"
+50;ios be;"{""NOUN VERB""}"
+51;ios be not;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+52;improving;{VERB}
+53;demand;{VERB}
+54;role;{VERB}
+55;ecosystem continue;"{""NOUN VERB""}"
+56;publisher benefit;"{""NOUN VERB""}"
+57;ad be simply;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+58;benefit;{VERB}
+59;impression have;"{""NOUN VERB""}"
+60;value be;"{""NOUN VERB""}"
+61;value be only;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+62;shouldn;{VERB}
+63;waste;{VERB}
+64;discount;{VERB}
+65;impressions shouldn;"{""NOUN VERB""}"
+66;t be;"{""NOUN VERB""}"
+67;show;{VERB}
+68;influence;{VERB}
+69;study show;"{""NOUN VERB""}"
+70;impression influence;"{""NOUN VERB""}"
+71;platform;{VERB}
+72;analytics platform;"{""NOUN VERB""}"
+73;ad be;"{""NOUN VERB""}"
+74;certain ad be;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+75;video;{VERB}
+76;view;{VERB}
+77;viewability be;"{""NOUN VERB""}"
+78;be view;"{""NOUN VERB""}"
+79;need;{VERB}
+80;help;{VERB}
+81;gauge;{VERB}
+82;mean;{VERB}
+83;technique be;"{""NOUN VERB""}"
+84;industry gauge;"{""NOUN VERB""}"
+85;impression mean;"{""NOUN VERB""}"
+86;viewable impression mean;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+87;flaw;{VERB}
+88;measurement be;"{""NOUN VERB""}"
+89;earn;{VERB}
+90;rat;{VERB}
+91;provide;{VERB}
+92;faf have;"{""NOUN VERB""}"
+93;broker rat;"{""NOUN VERB""}"
+94;broker provide;"{""NOUN VERB""}"
+95;american faf have;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+96;average broker rat;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+97;top;{VERB}
+98;company report;"{""NOUN VERB""}"
+99;quarter top;"{""NOUN VERB""}"
+100;post;{VERB}
+101;firm post;"{""NOUN VERB""}"
+102;compare;{VERB}
+103;business earn;"{""NOUN VERB""}"
+104;quarter compare;"{""NOUN VERB""}"
+105;revenue wa;"{""NOUN VERB""}"
+106;revenue wa up;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+107;anticipate;{VERB}
+108;analyst anticipate;"{""NOUN VERB""}"
+109;disclose;{VERB}
+110;dividend wa;"{""NOUN VERB""}"
+111;quarterly dividend wa;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+112;issue;{VERB}
+113;record be;"{""NOUN VERB""}"
+114;annualized;{VERB}
+115;represent annualized;"{""NOUN VERB""}"
+116;give;{VERB}
+117;analyst have;"{""NOUN VERB""}"
+118;recommendation have;"{""NOUN VERB""}"
+119;hold recommendation have;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+120;occur;{VERB}
+121;news sell;"{""NOUN VERB""}"
+122;company ’;"{""NOUN VERB""}"
+123;transaction occur;"{""NOUN VERB""}"
+124;american news sell;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+125;wa disclose;"{""NOUN VERB""}"
+126;file be;"{""NOUN VERB""}"
+127;legal file be;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+128;downgrade;{VERB}
+129;faf be;"{""NOUN VERB""}"
+130;american faf be;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+131;subsidiary be;"{""NOUN VERB""}"
+132;stock;{VERB}
+133;add;{VERB}
+134;probably;{VERB}
+135;skipper;{VERB}
+136;bite;{VERB}
+137;fit;{VERB}
+138;empathize;{VERB}
+139;e-mail;{VERB}
+140;journalist;{VERB}
+141;announce;{VERB}
+142;admit;{VERB}
+143;piece;{VERB}
+144;way respond;"{""NOUN VERB""}"
+145;attentive;{VERB}
+146;story be;"{""NOUN VERB""}"
+147;story;{VERB}
+148;mobile;{VERB}
+149;application;{VERB}
+150;far;{VERB}
+151;shoe;{VERB}
+152;several;{VERB}
+153;so far;"{""NOUN VERB""}"
+154;have other;"{""NOUN VERB""}"
+155;do have other;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+156;charity;{VERB}
+157;wa be;"{""NOUN VERB""}"
+158;someone ask;"{""NOUN VERB""}"
+159;time someone ask;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+160;bath;{VERB}
+161;salt be;"{""NOUN VERB""}"
+162;police;{VERB}
+163;organise;{VERB}
+164;from;{VERB}
+165;couple;{VERB}
+166;inspire;{VERB}
+167;story inspire;"{""NOUN VERB""}"
+168;word;{VERB}
+169;be word;"{""NOUN VERB""}"
+170;um wa;"{""NOUN VERB""}"
+171;event;{VERB}
+172;welcome;{VERB}
+173;bigger;{VERB}
+174;city;{VERB}
+175;area;{VERB}
+176;sign;{VERB}
+177;t know;"{""NOUN VERB""}"
+178;lady;{VERB}
+179;smaller;{VERB}
+180;steadfastly;{VERB}
+181;chief;{VERB}
+182;read chief;"{""NOUN VERB""}"
+183;long-term;{VERB}
+184;indeed;{VERB}
+185;really;{VERB}
+186;later really;"{""NOUN VERB""}"
+187;detective;{VERB}
+188;even admit;"{""NOUN VERB""}"
+189;personally;{VERB}
+190;luck;{VERB}
+191;be luck;"{""NOUN VERB""}"
+192;history;{VERB}
+193;bite history;"{""NOUN VERB""}"
+194;intrigue;{VERB}
+195;hard;{VERB}
+196;fascinate;{VERB}
+197;course film;"{""NOUN VERB""}"
+198;instance;{VERB}
+199;exactly;{VERB}
+200;necessarily;{VERB}
+201;here;{VERB}
+202;survivor;{VERB}
+203;well;{VERB}
+204;based;{VERB}
+205;train;{VERB}
+206;nuclear;{VERB}
+207;wa train;"{""NOUN VERB""}"
+208;finance;{VERB}
+209;service-support;{VERB}
+210;premier service-support;"{""NOUN VERB""}"
+211;admire;{VERB}
+212;sometimes;{VERB}
+213;wasn;{VERB}
+214;international;{VERB}
+215;call international;"{""NOUN VERB""}"
+216;significantly;{VERB}
+217;trademarks;{VERB}
+218;pc;{VERB}
+219;shoot;{VERB}
+220;emerge happy;"{""NOUN VERB""}"
+221;commit;{VERB}
+222;duty;{VERB}
+223;next day;"{""NOUN VERB""}"
+224;collapse;{VERB}
+225;life be;"{""NOUN VERB""}"
+226;ever didn;"{""NOUN VERB""}"
+227;change ever didn;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+228;hero;{VERB}
+229;pair;{VERB}
+230;oriental;{VERB}
+231;mare;{VERB}
+232;dress;{VERB}
+233;information involve;"{""NOUN VERB""}"
+234;forward-looking information involve;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+235;proceed;{VERB}
+236;sale;{VERB}
+237;information;{VERB}
+238;more information;"{""NOUN VERB""}"
+239;survive;{VERB}
+240;affiliate survive;"{""NOUN VERB""}"
+241;counting;{VERB}
+242;transgender;{VERB}
+243;outfit;{VERB}
+244;occasion;{VERB}
+245;whole;{VERB}
+246;often;{VERB}
+247;hallquist;{VERB}
+248;christine;{VERB}
+249;stay friend;"{""NOUN VERB""}"
+250;neighbour;{VERB}
+251;real name;"{""NOUN VERB""}"
+252;concern “;"{""NOUN VERB""}"
+253;main;{VERB}
+254;voice;{VERB}
+255;be main;"{""NOUN VERB""}"
+256;have turn;"{""NOUN VERB""}"
+257;community;{VERB}
+258;international community;"{""NOUN VERB""}"
+259;agreement;{VERB}
+260;be get;"{""NOUN VERB""}"
+261;oneness;{VERB}
+262;get people;"{""NOUN VERB""}"
+263;force u;"{""NOUN VERB""}"
+264;be force u;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+265;alliance;{VERB}
+266;beast;{VERB}
+267;so take;"{""NOUN VERB""}"
+268;empire;{VERB}
+269;coffee empire;"{""NOUN VERB""}"
+270;standard;{VERB}
+271;bar;{VERB}
+272;variety;{VERB}
+273;feature variety;"{""NOUN VERB""}"
+274;fyi;{VERB}
+275;appropriate;{VERB}
+276;duo;{VERB}
+277;dashing duo;"{""NOUN VERB""}"
+278;seem be;"{""NOUN VERB""}"
+279;unload;{VERB}
+280;spot unload;"{""NOUN VERB""}"
+281;forward-looking information;"{""NOUN VERB""}"
+282;also include;"{""NOUN VERB""}"
+283;forward-looking;{VERB}
+284;generally forward-looking;"{""NOUN VERB""}"
+285;information be;"{""NOUN VERB""}"
+286;actual;{VERB}
+287;uncertainty other;"{""NOUN VERB""}"
+288;forward-looking information be;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+289;reasonable;{VERB}
+290;estimate;{VERB}
+291;base reasonable;"{""NOUN VERB""}"
+292;be base reasonable;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+293;belief;{VERB}
+294;reflect such;"{""NOUN VERB""}"
+295;expectation reflect such;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+296;team;{VERB}
+297;collaboratively;{VERB}
+298;work collaboratively;"{""NOUN VERB""}"
+299;was;{VERB}
+300;citing;{VERB}
+301;lift;{VERB}
+302;contempt;{VERB}
+303;certainly;{VERB}
+304;recently;{VERB}
+305;license;{VERB}
+306;not issue;"{""NOUN VERB""}"
+307;marriage license;"{""NOUN VERB""}"
+308;chairman;{VERB}
+309;beacon;{VERB}
+310;only beacon;"{""NOUN VERB""}"
+311;club have;"{""NOUN VERB""}"
+312;given side;"{""NOUN VERB""}"
+313;oscillate;{VERB}
+314;trademark;{VERB}
+315;defiance;{VERB}
+316;manager;{VERB}
+317;offering trademark;"{""NOUN VERB""}"
+318;evidence;{VERB}
+319;venue;{VERB}
+320;say appear;"{""NOUN VERB""}"
+321;guest;{VERB}
+322;numerous;{VERB}
+323;depression;{VERB}
+324;convince;{VERB}
+325;be convince;"{""NOUN VERB""}"
+326;sixty-one;{VERB}
+327;lucky;{VERB}
+328;feel lucky;"{""NOUN VERB""}"
+329;spring;{VERB}
+330;daughter;{VERB}
+331;withdrawal;{VERB}
+332;wa hospital;"{""NOUN VERB""}"
+333;realise;{VERB}
+334;chair;{VERB}
+335;disorder;{VERB}
+336;senator;{VERB}
+337;pelosi-ism;{VERB}
+338;original;{VERB}
+339;semi-final;{VERB}
+340;dream;{VERB}
+341;angel;{VERB}
+342;almost;{VERB}
+343;record;{VERB}
+344;grandpa;{VERB}
+345;crack;{VERB}
+346;bone;{VERB}
+347;key;{VERB}
+348;musical;{VERB}
+349;be musical;"{""NOUN VERB""}"
+350;era;{VERB}
+351;be so;"{""NOUN VERB""}"
+352;half-scottish;{VERB}
+353;ice;{VERB}
+354;gradually;{VERB}
+355;album radio;"{""NOUN VERB""}"
+356;album radio much;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+357;mess;{VERB}
+358;motorway;{VERB}
+359;travelling;{VERB}
+360;fifty;{VERB}
+361;giant;{VERB}
+362;slowly;{VERB}
+363;sadly;{VERB}
+364;woman grab;"{""NOUN VERB""}"
+365;opponent;{VERB}
+366;melody;{VERB}
+367;given;{VERB}
+368;replay wa;"{""NOUN VERB""}"
+369;agonise;{VERB}
+370;fortune;{VERB}
+371;seek fortune;"{""NOUN VERB""}"
+372;newspaper;{VERB}
+373;wan;{VERB}
+374;reiterate;{VERB}
+375;ing;{VERB}
+376;traveling;{VERB}
+377;aircraft also;"{""NOUN VERB""}"
+378;however aircraft also;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+379;indicate military;"{""NOUN VERB""}"
+380;reports indicate military;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+381;ultimate;{VERB}
+382;intelligence;{VERB}
+383;official;{VERB}
+384;challenge;{VERB}
+385;maintain;{VERB}
+386;presence;{VERB}
+387;fall point;"{""NOUN VERB""}"
+388;authorities;{VERB}
+389;commitment;{VERB}
+390;longtime;{VERB}
+391;urge;{VERB}
+392;helicopters be;"{""NOUN VERB""}"
+393;commuter;{VERB}
+394;service local;"{""NOUN VERB""}"
+395;manhunt;{VERB}
+396;heavily;{VERB}
+397;lookout;{VERB}
+398;join search;"{""NOUN VERB""}"
+399;sniper lookout;"{""NOUN VERB""}"
+400;reports;{VERB}
+401;32-year;{VERB}
+402;suggest wa;"{""NOUN VERB""}"
+403;helicopter be;"{""NOUN VERB""}"
+404;dismiss;{VERB}
+405;anticipatory;{VERB}
+406;investigations be;"{""NOUN VERB""}"
+407;apt;{VERB}
+408;price;{VERB}
+409;magazine “;"{""NOUN VERB""}"
+410;magazine/pa;{VERB}
+411;cusp;{VERB}
+412;transformation;{VERB}
+413;freedom;{VERB}
+414;expression;{VERB}
+415;curtail freedom;"{""NOUN VERB""}"
+416;joint;{VERB}
+417;arrive;{VERB}
+418;meal;{VERB}
+419;sit meal;"{""NOUN VERB""}"
+420;week;{VERB}
+421;purpose;{VERB}
+422;mission;{VERB}
+423;memory s;"{""NOUN VERB""}"
+424;food;{VERB}
+425;importance food;"{""NOUN VERB""}"
+426;dad;{VERB}
+427;effectively;{VERB}
+428;few;{VERB}
+429;sick;{VERB}
+430;child be;"{""NOUN VERB""}"
+431;more “;"{""NOUN VERB""}"
+432;help child;"{""NOUN VERB""}"
+433;drug;{VERB}
+434;nevertheless;{VERB}
+435;law;{VERB}
+436;pharmacy;{VERB}
+437;compound pharmacy;"{""NOUN VERB""}"
+438;do be;"{""NOUN VERB""}"
+439;voluntary;{VERB}
+440;registration be;"{""NOUN VERB""}"
+441;medical;{VERB}
+442;doctor;{VERB}
+443;have;{VERB}
+444;find;{VERB}
+445;compound;{VERB}
+446;pharmaceutical;{VERB}
+447;manufacturer;{VERB}
+448;medication pharmaceutical;"{""NOUN VERB""}"
+449;note;{VERB}
+450;prescription;{VERB}
+451;most prescription;"{""NOUN VERB""}"
+452;yet;{VERB}
+453;most;{VERB}
+454;god-fearing;{VERB}
+455;self-employed;{VERB}
+456;love;{VERB}
+457;play;{VERB}
+458;friendship;{VERB}
+459;thing;{VERB}
+460;start;{VERB}
+461;little;{VERB}
+462;flesh;{VERB}
+463;yahoo.co.ukwilliam;{VERB}
+464;cute;{VERB}
+465;be cute;"{""NOUN VERB""}"
+466;tribe.reach;{VERB}
+467;mattwilliam1252;{VERB}
+468;recipes be;"{""NOUN VERB""}"
+469;tell u;"{""NOUN VERB""}"
+470;today;{VERB}
+471;quite;{VERB}
+472;possible;{VERB}
+473;due;{VERB}
+474;fact;{VERB}
+475;secret;{VERB}
+476;review;{VERB}
+477;transition review;"{""NOUN VERB""}"
+478;convenient transition review;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+479;put;{VERB}
+480;way;{VERB}
+481;tendency;{VERB}
+482;difficult;{VERB}
+483;solve;{VERB}
+484;natural;{VERB}
+485;say;{VERB}
+486;year;{VERB}
+487;remind;{VERB}
+488;problem;{VERB}
+489;not;{VERB}
+490;result;{VERB}
+491;think;{VERB}
+492;do;{VERB}
+493;same;{VERB}
+494;tremendous;{VERB}
+495;first;{VERB}
+496;next;{VERB}
+497;mutual;{VERB}
+498;so;{VERB}
+499;contrary;{VERB}
+500;especially so;"{""NOUN VERB""}"
+501;analyst;{VERB}
+502;course analyst;"{""NOUN VERB""}"
+503;experience;{VERB}
+504;long;{VERB}
+505;entirely;{VERB}
+506;market;{VERB}
+507;index;{VERB}
+508;only;{VERB}
+509;general market;"{""NOUN VERB""}"
+510;contrarian;{VERB}
+511;representation;{VERB}
+512;well-known;{VERB}
+513;refresh;{VERB}
+514;final;{VERB}
+515;do not;"{""NOUN VERB""}"
+516;state;{VERB}
+517;differences;{VERB}
+518;further state;"{""NOUN VERB""}"
+519;conclude be;"{""NOUN VERB""}"
+520;marriage;{VERB}
+521;commercial;{VERB}
+522;same-sex;{VERB}
+523;collins;{VERB}
+524;fall;{VERB}
+525;n't;{VERB}
+526;hold;{VERB}
+527;seem hold;"{""NOUN VERB""}"
+528;report;{VERB}
+529;senior;{VERB}
+530;chat;{VERB}
+531;jailed;{VERB}
+532;lawyer jailed;"{""NOUN VERB""}"
+533;read;{VERB}
+534;wa;{VERB}
+535;even;{VERB}
+536;extremism;{VERB}
+537;ironic;{VERB}
+538;also;{VERB}
+539;achieve;{VERB}
+540;actually achieve;"{""NOUN VERB""}"
+541;witch;{VERB}
+542;trial;{VERB}
+543;answer;{VERB}
+544;reason;{VERB}
+545;name;{VERB}
+546;get;{VERB}
+547;just;{VERB}
+548;attempt;{VERB}
+549;grasp;{VERB}
+550;writer;{VERB}
+551;nefas;{VERB}
+552;go;{VERB}
+553;character;{VERB}
+554;upgrade;{VERB}
+555;focus;{VERB}
+556;defendant focus;"{""NOUN VERB""}"
+557;go defendant focus;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+558;age;{VERB}
+559;girl;{VERB}
+560;many;{VERB}
+561;conspiracy;{VERB}
+562;rape conspiracy;"{""NOUN VERB""}"
+563;national;{VERB}
+564;sentence;{VERB}
+565;sentencing;{VERB}
+566;head;{VERB}
+567;now;{VERB}
+568;game;{VERB}
+569;3-and-out;{VERB}
+570;wa start;"{""NOUN VERB""}"
+571;hold 3-and-out;"{""NOUN VERB""}"
+572;drive;{VERB}
+573;stall drive;"{""NOUN VERB""}"
+574;finally;{VERB}
+575;follow;{VERB}
+576;people;{VERB}
+577;be people;"{""NOUN VERB""}"
+578;grace;{VERB}
+579;oral;{VERB}
+580;tell;{VERB}
+581;live;{VERB}
+582;come;{VERB}
+583;set;{VERB}
+584;create;{VERB}
+585;entire;{VERB}
+586;doe;{VERB}
+587;know;{VERB}
+588;together;{VERB}
+589;let;{VERB}
+590;something;{VERB}
+591;listen;{VERB}
+592;supporter;{VERB}
+593;deal;{VERB}
+594;iranian;{VERB}
+595;eliminate;{VERB}
+596;partner ”;"{""NOUN VERB""}"
+597;agreement iranian;"{""NOUN VERB""}"
+598;remind u;"{""NOUN VERB""}"
+599;view “;"{""NOUN VERB""}"
+600;enemy;{VERB}
+601;learn;{VERB}
+602;apply;{VERB}
+603;look;{VERB}
+604;amount;{VERB}
+605;debt;{VERB}
+606;credit;{VERB}
+607;current;{VERB}
+608;better;{VERB}
+609;country have;"{""NOUN VERB""}"
+610;best;{VERB}
+611;known best;"{""NOUN VERB""}"
+612;wall;{VERB}
+613;stunning;{VERB}
+614;wonderful;{VERB}
+615;relaxing;{VERB}
+616;fish;{VERB}
+617;run;{VERB}
+618;youngish;{VERB}
+619;be run;"{""NOUN VERB""}"
+620;hatchery be run;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+621;yes;{VERB}
+622;saw;{VERB}
+623;improvised;{VERB}
+624;driving;{VERB}
+625;country;{VERB}
+626;keep;{VERB}
+627;open;{VERB}
+628;going;{VERB}
+629;much;{VERB}
+630;farm;{VERB}
+631;washing;{VERB}
+632;afternoon;{VERB}
+633;very;{VERB}
+634;remain;{VERB}
+635;saw remain;"{""NOUN VERB""}"
+636;ruins;{VERB}
+637;other;{VERB}
+638;huge;{VERB}
+639;use;{VERB}
+640;assume;{VERB}
+641;move;{VERB}
+642;last;{VERB}
+643;according;{VERB}
+644;account;{VERB}
+645;late account;"{""NOUN VERB""}"
+646;large;{VERB}
+647;latest;{VERB}
+648;auditor;{VERB}
+649;banker;{VERB}
+650;contacted;{VERB}
+651;allegation;{VERB}
+652;questions;{VERB}
+653;swapping;{VERB}
+654;australian;{VERB}
+655;major;{VERB}
+656;ha;{VERB}
+657;refuse;{VERB}
+658;money;{VERB}
+659;malaysian;{VERB}
+660;ready;{VERB}
+661;wa ready;"{""NOUN VERB""}"
+662;then;{VERB}
+663;rancid;{VERB}
+664;instead;{VERB}
+665;make;{VERB}
+666;copy;{VERB}
+667;reread;{VERB}
+668;ever;{VERB}
+669;fifth;{VERB}
+670;absence;{VERB}
+671;more;{VERB}
+672;father;{VERB}
+673;most father;"{""NOUN VERB""}"
+674;cent;{VERB}
+675;ten;{VERB}
+676;only ten;"{""NOUN VERB""}"
+677;parental;{VERB}
+678;leave;{VERB}
+679;father say;"{""NOUN VERB""}"
+680;pay;{VERB}
+681;minimum;{VERB}
+682;act;{VERB}
+683;once;{VERB}
+684;true;{VERB}
+685;say n't;"{""NOUN VERB""}"
+686;be true;"{""NOUN VERB""}"
+687;workplace;{VERB}
+688;fathers;{VERB}
+689;partner;{VERB}
+690;dad partner;"{""NOUN VERB""}"
+691;scheme;{VERB}
+692;concept;{VERB}
+693;being;{VERB}
+694;desire;{VERB}
+695;canadian;{VERB}
+696;support;{VERB}
+697;previously;{VERB}
+698;division ha;"{""NOUN VERB""}"
+699;usually;{VERB}
+700;join;{VERB}
+701;s join;"{""NOUN VERB""}"
+702;tough;{VERB}
+703;recent;{VERB}
+704;member;{VERB}
+705;however;{VERB}
+706;third;{VERB}
+707;again;{VERB}
+708;wa go;"{""NOUN VERB""}"
+709;block;{VERB}
+710;run play;"{""NOUN VERB""}"
+711;take;{VERB}
+712;man;{VERB}
+713;lifeguards;{VERB}
+714;lifeguard;{VERB}
+715;lifeguard say;"{""NOUN VERB""}"
+716;hadn;{VERB}
+717;biggest;{VERB}
+718;endure;{VERB}
+719;closer;{VERB}
+720;never;{VERB}
+721;maybe;{VERB}
+722;part;{VERB}
+723;company;{VERB}
+724;stock be;"{""NOUN VERB""}"
+725;ray;{VERB}
+726;wife;{VERB}
+727;fan;{VERB}
+728;don;{VERB}
+729;editor;{VERB}
+730;realize;{VERB}
+731;granted;{VERB}
+732;truth;{VERB}
+733;stay;{VERB}
+734;fundraise;{VERB}
+735;build;{VERB}
+736;ha build;"{""NOUN VERB""}"
+737;sanders;{VERB}
+738;element;{VERB}
+739;be element;"{""NOUN VERB""}"
+740;month ha;"{""NOUN VERB""}"
+741;primary;{VERB}
+742;democratic primary;"{""NOUN VERB""}"
+743;fan have;"{""NOUN VERB""}"
+744;restaurant;{VERB}
+745;pancakes;{VERB}
+746;mcgriddles;{VERB}
+747;sites;{VERB}
+748;vintage;{VERB}
+749;briefcase;{VERB}
+750;style;{VERB}
+751;classic briefcase;"{""NOUN VERB""}"
+752;close;{VERB}
+753;appreciate;{VERB}
+754;socialism;{VERB}
+755;does;{VERB}
+756;frankly;{VERB}
+757;students;{VERB}
+758;western;{VERB}
+759;economy;{VERB}
+760;generally;{VERB}
+761;buy;{VERB}
+762;sell;{VERB}
+763;real;{VERB}
+764;day age;"{""NOUN VERB""}"
+765;co-founded;{VERB}
+766;offer;{VERB}
+767;prestigious;{VERB}
+768;most prestigious;"{""NOUN VERB""}"
+769;designee;{VERB}
+770;goal;{VERB}
+771;be provide;"{""NOUN VERB""}"
+772;estate;{VERB}
+773;real estate;"{""NOUN VERB""}"
+774;day;{VERB}
+775;addition;{VERB}
+776;govision;{VERB}
+777;comprise;{VERB}
+778;baby;{VERB}
+779;believe;{VERB}
+780;service;{VERB}
+781;boy;{VERB}
+782;pain;{VERB}
+783;high;{VERB}
+784;meanwhile;{VERB}
+785;responsibility;{VERB}
+786;sticky;{VERB}
+787;place sticky;"{""NOUN VERB""}"
+788;app;{VERB}
+789;always;{VERB}
+790;not be;"{""NOUN VERB""}"
+791;pointer;{VERB}
+792;religious;{VERB}
+793;executive;{VERB}
+794;intend;{VERB}
+795;political;{VERB}
+796;intimidate;{VERB}
+797;continue;{VERB}
+798;consume;{VERB}
+799;home;{VERB}
+800;wildfire consume;"{""NOUN VERB""}"
+801;10-minute;{VERB}
+802;juan;{VERB}
+803;watch;{VERB}
+804;catholics;{VERB}
+805;pope;{VERB}
+806;authority;{VERB}
+807;historically;{VERB}
+808;fly;{VERB}
+809;host;{VERB}
+810;papal;{VERB}
+811;turn leave;"{""NOUN VERB""}"
+812;turn;{VERB}
+813;aloof;{VERB}
+814;route turn;"{""NOUN VERB""}"
+815;monument;{VERB}
+816;carry;{VERB}
+817;cross carry;"{""NOUN VERB""}"
+818;change;{VERB}
+819;way continue;"{""NOUN VERB""}"
+820;way continue yard;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+821;stile;{VERB}
+822;point way;"{""NOUN VERB""}"
+823;drama;{VERB}
+824;adrenaline;{VERB}
+825;share;{VERB}
+826;article;{VERB}
+827;there;{VERB}
+828;say “;"{""NOUN VERB""}"
+829;volunteer;{VERB}
+830;volunteer have;"{""NOUN VERB""}"
+831;group volunteer have;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+832;recommended;{VERB}
+833;determine;{VERB}
+834;have be;"{""NOUN VERB""}"
+835;fate;{VERB}
+836;waiting;{VERB}
+837;equally;{VERB}
+838;additional;{VERB}
+839;permanent;{VERB}
+840;matter;{VERB}
+841;thaw;{VERB}
+842;renowned;{VERB}
+843;such;{VERB}
+844;claim;{VERB}
+845;launch;{VERB}
+846;know ha;"{""NOUN VERB""}"
+847;economically;{VERB}
+848;context;{VERB}
+849;literally;{VERB}
+850;singer;{VERB}
+851;meet;{VERB}
+852;speak;{VERB}
+853;ex-boyfriend;{VERB}
+854;childhood;{VERB}
+855;coolest;{VERB}
+856;highest-ranked;{VERB}
+857;entertainer;{VERB}
+858;be highest-ranked;"{""NOUN VERB""}"
+859;rapper;{VERB}
+860;sue;{VERB}
+861;man sue;"{""NOUN VERB""}"
+862;raise;{VERB}
+863;plead;{VERB}
+864;srt;{VERB}
+865;management;{VERB}
+866;design;{VERB}
+867;format;{VERB}
+868;strive;{VERB}
+869;english;{VERB}
+870;incredibly;{VERB}
+871;busy;{VERB}
+872;tickets;{VERB}
+873;present;{VERB}
+874;amazingly;{VERB}
+875;former;{VERB}
+876;star;{VERB}
+877;confirming;{VERB}
+878;happy;{VERB}
+879;reject;{VERB}
+880;question;{VERB}
+881;president;{VERB}
+882;faith;{VERB}
+883;didn;{VERB}
+884;t say;"{""NOUN VERB""}"
+885;oddly;{VERB}
+886;enough;{VERB}
+887;worries;{VERB}
+888;be not;"{""NOUN VERB""}"
+889;extremist;{VERB}
+890;conservatives;{VERB}
+891;want;{VERB}
+892;nation;{VERB}
+893;doesn;{VERB}
+894;process;{VERB}
+895;time;{VERB}
+896;staff;{VERB}
+897;long process;"{""NOUN VERB""}"
+898;same time;"{""NOUN VERB""}"
+899;have staff;"{""NOUN VERB""}"
+900;operation;{VERB}
+901;hour;{VERB}
+902;long hour;"{""NOUN VERB""}"
+903;above;{VERB}
+904;fuck;{VERB}
+905;push;{VERB}
+906;administration;{VERB}
+907;approach;{VERB}
+908;range approach;"{""NOUN VERB""}"
+909;regular;{VERB}
+910;contact;{VERB}
+911;also regular;"{""NOUN VERB""}"
+912;spokesperson;{VERB}
+913;declaring;{VERB}
+914;slip;{VERB}
+915;expect wa;"{""NOUN VERB""}"
+916;expect wa most;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+917;begin;{VERB}
+918;confuse;{VERB}
+919;blueprint;{VERB}
+920;plot;{VERB}
+921;book;{VERB}
+922;plan;{VERB}
+923;write;{VERB}
+924;nothing;{VERB}
+925;plot be;"{""NOUN VERB""}"
+926;say never;"{""NOUN VERB""}"
+927;find plot;"{""NOUN VERB""}"
+928;take plan;"{""NOUN VERB""}"
+929;waters say never;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+930;plot be more;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+931;say never make;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+932;flow;{VERB}
+933;sit;{VERB}
+934;chop;{VERB}
+935;wood run;"{""NOUN VERB""}"
+936;develop;{VERB}
+937;character think;"{""NOUN VERB""}"
+938;mind 's;"{""NOUN VERB""}"
+939;mind 's just;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+940;pull;{VERB}
+941;page see;"{""NOUN VERB""}"
+942;few page see;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+943;lean;{VERB}
+944;drum;{VERB}
+945;guard;{VERB}
+946;perfect;{VERB}
+947;waters lean;"{""NOUN VERB""}"
+948;finger drum;"{""NOUN VERB""}"
+949;table continue;"{""NOUN VERB""}"
+950;thing guard;"{""NOUN VERB""}"
+951;waters lean back;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+952;articulate;{VERB}
+953;thing want;"{""NOUN VERB""}"
+954;book be;"{""NOUN VERB""}"
+955;page want;"{""NOUN VERB""}"
+956;second page want;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+957;afraid;{VERB}
+958;jot;{VERB}
+959;sound;{VERB}
+960;down;{VERB}
+961;worry;{VERB}
+962;come sound;"{""NOUN VERB""}"
+963;revise;{VERB}
+964;throw;{VERB}
+965;rewrite;{VERB}
+966;page rewrite;"{""NOUN VERB""}"
+967;try;{VERB}
+968;force;{VERB}
+969;fill;{VERB}
+970;well be;"{""NOUN VERB""}"
+971;require;{VERB}
+972;book require;"{""NOUN VERB""}"
+973;year write;"{""NOUN VERB""}"
+974;crackpot make;"{""NOUN VERB""}"
+975;plunge;{VERB}
+976;work;{VERB}
+977;feel;{VERB}
+978;pop;{VERB}
+979;time feel;"{""NOUN VERB""}"
+980;start pop;"{""NOUN VERB""}"
+981;short time feel;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+982;time feel lose;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+983;enjoy;{VERB}
+984;writer enjoy;"{""NOUN VERB""}"
+985;waters find;"{""NOUN VERB""}"
+986;job do;"{""NOUN VERB""}"
+987;satisfaction feel;"{""NOUN VERB""}"
+988;real job do;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+989;little satisfaction feel;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+990;confine 're;"{""NOUN VERB""}"
+991;confine 're never;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+992;bug;{VERB}
+993;forget;{VERB}
+994;type;{VERB}
+995;manuscript be;"{""NOUN VERB""}"
+996;sister type;"{""NOUN VERB""}"
+997;first manuscript be;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+998;stop;{VERB}
+999;rush;{VERB}
+1000;waters stop;"{""NOUN VERB""}"
+1001;inspiration have;"{""NOUN VERB""}"
+1002;desk write;"{""NOUN VERB""}"
+1003;sober see;"{""NOUN VERB""}"
+1004;ha be;"{""NOUN VERB""}"
+1005;cold sober see;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1006;rotten ha be;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1007;scrap;{VERB}
+1008;wa write;"{""NOUN VERB""}"
+1009;name wa;"{""NOUN VERB""}"
+1010;name wa then;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1011;produce;{VERB}
+1012;wa star;"{""NOUN VERB""}"
+1013;evolve;{VERB}
+1014;picture write;"{""NOUN VERB""}"
+1015;like;{VERB}
+1016;people say;"{""NOUN VERB""}"
+1017;richness do;"{""NOUN VERB""}"
+1018;richness do n't;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1019;necessitate;{VERB}
+1020;routine have;"{""NOUN VERB""}"
+1021;ask write;"{""NOUN VERB""}"
+1022;script necessitate;"{""NOUN VERB""}"
+1023;friend;{VERB}
+1024;author live;"{""NOUN VERB""}"
+1025;make friend;"{""NOUN VERB""}"
+1026;year make friend;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1027;instrumental have;"{""NOUN VERB""}"
+1028;custom be;"{""NOUN VERB""}"
+1029;traditional custom be;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1030;kid want;"{""NOUN VERB""}"
+1031;kid have;"{""NOUN VERB""}"
+1032;reservation get;"{""NOUN VERB""}"
+1033;white kid have;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1034;grow;{VERB}
+1035;publish;{VERB}
+1036;involve;{VERB}
+1037;case involve;"{""NOUN VERB""}"
+1038;concoct;{VERB}
+1039;save;{VERB}
+1040;story save;"{""NOUN VERB""}"
+1041;detective story save;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1042;series be;"{""NOUN VERB""}"
+1043;favorite series be;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1044;waters learn;"{""NOUN VERB""}"
+1045;epitomize;{VERB}
+1046;culture epitomize;"{""NOUN VERB""}"
+1047;american culture epitomize;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1048;break;{VERB}
+1049;own;{VERB}
+1050;expected;{VERB}
+1051;learning;{VERB}
+1052;aware;{VERB}
+1053;important;{VERB}
+1054;explore;{VERB}
+1055;potential;{VERB}
+1056;negotiation;{VERB}
+1057;importance;{VERB}
+1058;workshop have;"{""NOUN VERB""}"
+1059;be aware;"{""NOUN VERB""}"
+1060;see benefit;"{""NOUN VERB""}"
+1061;solve negotiation;"{""NOUN VERB""}"
+1062;understand importance;"{""NOUN VERB""}"
+1063;problem solve negotiation;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1064;obtain;{VERB}
+1065;attend;{VERB}
+1066;please;{VERB}
+1067;allocate;{VERB}
+1068;request be;"{""NOUN VERB""}"
+1069;circumstance be;"{""NOUN VERB""}"
+1070;list allocate;"{""NOUN VERB""}"
+1071;unforeseen circumstance be;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1072;wait list allocate;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1073;disadvantage;{VERB}
+1074;lose;{VERB}
+1075;include;{VERB}
+1076;u provide;"{""NOUN VERB""}"
+1077;member include;"{""NOUN VERB""}"
+1078;enable u provide;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1079;postpone;{VERB}
+1080;cancel;{VERB}
+1081;happen;{VERB}
+1082;tutor;{VERB}
+1083;reimburse;{VERB}
+1084;note be;"{""NOUN VERB""}"
+1085;ha happen;"{""NOUN VERB""}"
+1086;strike be;"{""NOUN VERB""}"
+1087;ha happen only;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1088;email;{VERB}
+1089;re-schedule;{VERB}
+1090;future email;"{""NOUN VERB""}"
+1091;attempt re-schedule;"{""NOUN VERB""}"
+1092;online apply;"{""NOUN VERB""}"
+1093;workshop please;"{""NOUN VERB""}"
+1094;one-day workshop please;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1095;login;{VERB}
+1096;register;{VERB}
+1097;event have;"{""NOUN VERB""}"
+1098;applicant be;"{""NOUN VERB""}"
+1099;successful applicant be;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1100;represent;{VERB}
+1101;work ’;"{""NOUN VERB""}"
+1102;client be;"{""NOUN VERB""}"
+1103;appear;{VERB}
+1104;post appear;"{""NOUN VERB""}"
+1105;post appear first;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1106;workshop give;"{""NOUN VERB""}"
+1107;improve;{VERB}
+1108;process help;"{""NOUN VERB""}"
+1109;prepare;{VERB}
+1110;gather;{VERB}
+1111;negotiate;{VERB}
+1112;grind;{VERB}
+1113;negotiation prepare;"{""NOUN VERB""}"
+1114;information need;"{""NOUN VERB""}"
+1115;principled negotiation prepare;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1116;negotiation prepare effectively;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1117;workshop include;"{""NOUN VERB""}"
+1118;exercise provide;"{""NOUN VERB""}"
+1119;opportunity try;"{""NOUN VERB""}"
+1120;practical exercise provide;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1121;agree;{VERB}
+1122;regret;{VERB}
+1123;anyone need;"{""NOUN VERB""}"
+1124;past agree;"{""NOUN VERB""}"
+1125;qualifications require;"{""NOUN VERB""}"
+1126;qualification be;"{""NOUN VERB""}"
+1127;specific qualification be;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1128;enhancement include;"{""NOUN VERB""}"
+1129;solution help;"{""NOUN VERB""}"
+1130;enhancement support;"{""NOUN VERB""}"
+1131;conjunction provide;"{""NOUN VERB""}"
+1132;source include;"{""NOUN VERB""}"
+1133;reduce;{VERB}
+1134;optimize;{VERB}
+1135;help reduce;"{""NOUN VERB""}"
+1136;environment optimize;"{""NOUN VERB""}"
+1137;allow;{VERB}
+1138;device allow;"{""NOUN VERB""}"
+1139;smart device allow;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1140;send;{VERB}
+1141;address;{VERB}
+1142;capability help;"{""NOUN VERB""}"
+1143;prepare address;"{""NOUN VERB""}"
+1144;say senior;"{""NOUN VERB""}"
+1145;gain;{VERB}
+1146;communication;{VERB}
+1147;proactive;{VERB}
+1148;actionable;{VERB}
+1149;dynamic;{VERB}
+1150;world;{VERB}
+1151;organization gain;"{""NOUN VERB""}"
+1152;real-time communication;"{""NOUN VERB""}"
+1153;more proactive;"{""NOUN VERB""}"
+1154;leader actionable;"{""NOUN VERB""}"
+1155;drive real-time communication;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1156;employ more proactive;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1157;more proactive approach;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1158;action;{VERB}
+1159;anticipate respond;"{""NOUN VERB""}"
+1160;take action;"{""NOUN VERB""}"
+1161;make more;"{""NOUN VERB""}"
+1162;platform be;"{""NOUN VERB""}"
+1163;solution be;"{""NOUN VERB""}"
+1164;vision be;"{""NOUN VERB""}"
+1165;contain;{VERB}
+1166;release contain;"{""NOUN VERB""}"
+1167;statement include;"{""NOUN VERB""}"
+1168;forward-looking statement include;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1169;base;{VERB}
+1170;cause;{VERB}
+1171;differ;{VERB}
+1172;imply;{VERB}
+1173;statement be;"{""NOUN VERB""}"
+1174;performance be;"{""NOUN VERB""}"
+1175;expectation involve;"{""NOUN VERB""}"
+1176;assumption cause;"{""NOUN VERB""}"
+1177;result differ;"{""NOUN VERB""}"
+1178;express imply;"{""NOUN VERB""}"
+1179;forward-looking statement be;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1180;future performance be;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1181;actual result differ;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1182;statement be not;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1183;result differ materially;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1184;factor see;"{""NOUN VERB""}"
+1185;filing make;"{""NOUN VERB""}"
+1186;other filing make;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1187;update;{VERB}
+1188;release be;"{""NOUN VERB""}"
+1189;law assume;"{""NOUN VERB""}"
+1190;obligation update;"{""NOUN VERB""}"
+1191;mention be;"{""NOUN VERB""}"
+1192;face;{VERB}
+1193;surround;{VERB}
+1194;death;{VERB}
+1195;circumstance surround;"{""NOUN VERB""}"
+1196;baby death;"{""NOUN VERB""}"
+1197;too;{VERB}
+1198;investigation;{VERB}
+1199;right;{VERB}
+1200;hospital;{VERB}
+1201;upset;{VERB}
+1202;staff hospital;"{""NOUN VERB""}"
+1203;birth;{VERB}
+1204;give birth;"{""NOUN VERB""}"
+1205;partner leave;"{""NOUN VERB""}"
+1206;baby partner leave;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1207;blood;{VERB}
+1208;related;{VERB}
+1209;petition;{VERB}
+1210;hope;{VERB}
+1211;express;{VERB}
+1212;cover express;"{""NOUN VERB""}"
+1213;still;{VERB}
+1214;heart;{VERB}
+1215;marriage work;"{""NOUN VERB""}"
+1216;work saw;"{""NOUN VERB""}"
+1217;care;{VERB}
+1218;day say;"{""NOUN VERB""}"
+1219;foster;{VERB}
+1220;talk;{VERB}
+1221;kid be;"{""NOUN VERB""}"
+1222;bring foster;"{""NOUN VERB""}"
+1223;do talk;"{""NOUN VERB""}"
+1224;care do talk;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1225;kid be more;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1226;snowball ’;"{""NOUN VERB""}"
+1227;snowball ’ ve;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1228;die;{VERB}
+1229;woman s;"{""NOUN VERB""}"
+1230;58-year-old woman s;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1231;felt;{VERB}
+1232;outweigh;{VERB}
+1233;have. say;"{""NOUN VERB""}"
+1234;couldn;{VERB}
+1235;ve have;"{""NOUN VERB""}"
+1236;case couldn;"{""NOUN VERB""}"
+1237;handle say;"{""NOUN VERB""}"
+1238;possibly;{VERB}
+1239;everything possibly;"{""NOUN VERB""}"
+1240;blossom;{VERB}
+1241;call have;"{""NOUN VERB""}"
+1242;recognise;{VERB}
+1243;accept;{VERB}
+1244;leader say;"{""NOUN VERB""}"
+1245;ability accept;"{""NOUN VERB""}"
+1246;child come;"{""NOUN VERB""}"
+1247;pass;{VERB}
+1248;skill have;"{""NOUN VERB""}"
+1249;incredible skill have;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1250;describe;{VERB}
+1251;woman provide;"{""NOUN VERB""}"
+1252;child have;"{""NOUN VERB""}"
+1253;incredible woman provide;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1254;place;{VERB}
+1255;house be;"{""NOUN VERB""}"
+1256;child;{VERB}
+1257;executive say;"{""NOUN VERB""}"
+1258;woman open;"{""NOUN VERB""}"
+1259;house child;"{""NOUN VERB""}"
+1260;chief executive say;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1261;extraordinary woman open;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1262;support say;"{""NOUN VERB""}"
+1263;unconditional support say;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1264;repair;{VERB}
+1265;home child;"{""NOUN VERB""}"
+1266;were.;{VERB}
+1267;funeral;{VERB}
+1268;celebrate;{VERB}
+1269;kind;{VERB}
+1270;world love;"{""NOUN VERB""}"
+1271;attend s;"{""NOUN VERB""}"
+1272;remember kind;"{""NOUN VERB""}"
+1273;wa always;"{""NOUN VERB""}"
+1274;wa always do;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1275;heartwarming;{VERB}
+1276;wa take;"{""NOUN VERB""}"
+1277;break get;"{""NOUN VERB""}"
+1278;family say;"{""NOUN VERB""}"
+1279;break get away;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1280;wonderful care;"{""NOUN VERB""}"
+1281;everybody wa;"{""NOUN VERB""}"
+1282;with. say;"{""NOUN VERB""}"
+1283;plan continue;"{""NOUN VERB""}"
+1284;work wa;"{""NOUN VERB""}"
+1285;ring;{VERB}
+1286;dignity tell;"{""NOUN VERB""}"
+1287;son live;"{""NOUN VERB""}"
+1288;quiet dignity tell;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1289;new;{VERB}
+1290;door;{VERB}
+1291;be nothing;"{""NOUN VERB""}"
+1292;come home;"{""NOUN VERB""}"
+1293;see new;"{""NOUN VERB""}"
+1294;walk door;"{""NOUN VERB""}"
+1295;d say;"{""NOUN VERB""}"
+1296;face walk door;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1297;week turn;"{""NOUN VERB""}"
+1298;bring;{VERB}
+1299;family bring;"{""NOUN VERB""}"
+1300;way bring;"{""NOUN VERB""}"
+1301;same way bring;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1302;son drive;"{""NOUN VERB""}"
+1303;seat say;"{""NOUN VERB""}"
+1304;front seat say;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1305;light look;"{""NOUN VERB""}"
+1306;road see;"{""NOUN VERB""}"
+1307;wonder;{VERB}
+1308;story ..;"{""NOUN VERB""}"
+1309;confusing;{VERB}
+1310;become;{VERB}
+1311;year make;"{""NOUN VERB""}"
+1312;news become;"{""NOUN VERB""}"
+1313;few year make;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1314;wa wa;"{""NOUN VERB""}"
+1315;recall;{VERB}
+1316;justice;{VERB}
+1317;troop help;"{""NOUN VERB""}"
+1318;american troop help;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1319;release;{VERB}
+1320;troop have;"{""NOUN VERB""}"
+1321;partner help;"{""NOUN VERB""}"
+1322;unsavory partner help;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1323;working;{VERB}
+1324;topple;{VERB}
+1325;trigger;{VERB}
+1326;force have;"{""NOUN VERB""}"
+1327;central force have;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1328;ha make;"{""NOUN VERB""}"
+1329;rebel be;"{""NOUN VERB""}"
+1330;rebel be actually;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1331;condemn;{VERB}
+1332;talk say;"{""NOUN VERB""}"
+1333;terrorism wa;"{""NOUN VERB""}"
+1334;due terrorism wa;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1335;someone be;"{""NOUN VERB""}"
+1336;disaster be;"{""NOUN VERB""}"
+1337;democracy be;"{""NOUN VERB""}"
+1338;result be;"{""NOUN VERB""}"
+1339;group ha;"{""NOUN VERB""}"
+1340;group be;"{""NOUN VERB""}"
+1341;group be clearly;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1342;democracy;{VERB}
+1343;rig;{VERB}
+1344;war be;"{""NOUN VERB""}"
+1345;system produce;"{""NOUN VERB""}"
+1346;trust;{VERB}
+1347;refrain;{VERB}
+1348;strength be;"{""NOUN VERB""}"
+1349;religion be;"{""NOUN VERB""}"
+1350;organization be;"{""NOUN VERB""}"
+1351;one ha;"{""NOUN VERB""}"
+1352;competence keep;"{""NOUN VERB""}"
+1353;function keep;"{""NOUN VERB""}"
+1354;political organization be;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1355;only one ha;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1356;basic competence keep;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1357;rule;{VERB}
+1358;be rule;"{""NOUN VERB""}"
+1359;effect;{VERB}
+1360;stupid;{VERB}
+1361;rule stupid;"{""NOUN VERB""}"
+1362;people be;"{""NOUN VERB""}"
+1363;undermine;{VERB}
+1364;legitimacy;{VERB}
+1365;soon;{VERB}
+1366;power;{VERB}
+1367;supply;{VERB}
+1368;inferior;{VERB}
+1369;figure;{VERB}
+1370;hopeful;{VERB}
+1371;athlete hopeful;"{""NOUN VERB""}"
+1372;element be;"{""NOUN VERB""}"
+1373;specific;{VERB}
+1374;example specific;"{""NOUN VERB""}"
+1375;resource be;"{""NOUN VERB""}"
+1376;ease use;"{""NOUN VERB""}"
+1377;available;{VERB}
+1378;visit;{VERB}
+1379;please visit;"{""NOUN VERB""}"
+1380;design provide;"{""NOUN VERB""}"
+1381;total;{VERB}
+1382;two-time;{VERB}
+1383;gold;{VERB}
+1384;excite;{VERB}
+1385;together excite;"{""NOUN VERB""}"
+1386;program;{VERB}
+1387;non-profit;{VERB}
+1388;vision;{VERB}
+1389;align;{VERB}
+1390;strengthen align;"{""NOUN VERB""}"
+1391;world-leading;{VERB}
+1392;support world-leading;"{""NOUN VERB""}"
+1393;partnership be;"{""NOUN VERB""}"
+1394;body;{VERB}
+1395;loading;{VERB}
+1396;debate;{VERB}
+1397;ll;{VERB}
+1398;deputy;{VERB}
+1399;resolution;{VERB}
+1400;republican resolution;"{""NOUN VERB""}"
+1401;block republican resolution;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1402;photo;{VERB}
+1403;photo former;"{""NOUN VERB""}"
+1404;european;{VERB}
+1405;vote;{VERB}
+1406;disgrace vote;"{""NOUN VERB""}"
+1407;it.;{VERB}
+1408;social;{VERB}
+1409;don ’ t;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1410;song;{VERB}
+1411;sing;{VERB}
+1412;have song;"{""NOUN VERB""}"
+1413;wed;{VERB}
+1414;orders;{VERB}
+1415;surrender;{VERB}
+1416;inning surrender;"{""NOUN VERB""}"
+1417;déjà;{VERB}
+1418;leadoff;{VERB}
+1419;apparently;{VERB}
+1420;wa apparently;"{""NOUN VERB""}"
+1421;director communication;"{""NOUN VERB""}"
+1422;end;{VERB}
+1423;husband;{VERB}
+1424;describing;{VERB}
+1425;attention;{VERB}
+1426;celebrity attention;"{""NOUN VERB""}"
+1427;appearance;{VERB}
+1428;dressed;{VERB}
+1429;39-year-old;{VERB}
+1430;pooper 39-year-old;"{""NOUN VERB""}"
+1431;color;{VERB}
+1432;says;{VERB}
+1433;chance;{VERB}
+1434;win;{VERB}
+1435;22-year-old come;"{""NOUN VERB""}"
+1436;spokesman;{VERB}
+1437;originally wife;"{""NOUN VERB""}"
+1438;fear;{VERB}
+1439;allege;{VERB}
+1440;reportedly allege;"{""NOUN VERB""}"
+1441;bank;{VERB}
+1442;balance bank;"{""NOUN VERB""}"
+1443;obviously;{VERB}
+1444;perhaps;{VERB}
+1445;especially;{VERB}
+1446;question perhaps;"{""NOUN VERB""}"
+1447;bank especially;"{""NOUN VERB""}"
+1448;emerge market;"{""NOUN VERB""}"
+1449;actually;{VERB}
+1450;probe;{VERB}
+1451;regulator;{VERB}
+1452;part probe;"{""NOUN VERB""}"
+1453;gold regulator;"{""NOUN VERB""}"
+1454;instead gold regulator;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1455;claim part;"{""NOUN VERB""}"
+1456;source claim part;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1457;website note;"{""NOUN VERB""}"
+1458;conclude;{VERB}
+1459;reality;{VERB}
+1460;hence;{VERB}
+1461;localism;{VERB}
+1462;interest;{VERB}
+1463;bewilder;{VERB}
+1464;press;{VERB}
+1465;adoption;{VERB}
+1466;testify;{VERB}
+1467;set testify;"{""NOUN VERB""}"
+1468;typically;{VERB}
+1469;seem;{VERB}
+1470;people seem;"{""NOUN VERB""}"
+1471;originally;{VERB}
+1472;foreign;{VERB}
+1473;key foreign;"{""NOUN VERB""}"
+1474;decision be;"{""NOUN VERB""}"
+1475;founder;{VERB}
+1476;idnext;{VERB}
+1477;next-line;{VERB}
+1478;seller amount;"{""NOUN VERB""}"
+1479;pay seller amount;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1480;annual;{VERB}
+1481;case annual;"{""NOUN VERB""}"
+1482;performance;{VERB}
+1483;certain;{VERB}
+1484;subject certain;"{""NOUN VERB""}"
+1485;uncertainty cause;"{""NOUN VERB""}"
+1486;uncertainty include;"{""NOUN VERB""}"
+1487;incorporate;{VERB}
+1488;yuval;{VERB}
+1489;inventory;{VERB}
+1490;complex;{VERB}
+1491;unfortunately;{VERB}
+1492;heavy;{VERB}
+1493;individual;{VERB}
+1494;shortcoming;{VERB}
+1495;strengthening;{VERB}
+1496;peacekeeping;{VERB}
+1497;humanitarian;{VERB}
+1498;broad;{VERB}
+1499;increasingly;{VERB}
+1500;ago first;"{""NOUN VERB""}"
+1501;beauty;{VERB}
+1502;surprisingly;{VERB}
+1503;also be;"{""NOUN VERB""}"
+1504;oil;{VERB}
+1505;fell;{VERB}
+1506;gouge;{VERB}
+1507;commodity;{VERB}
+1508;laissez-faire;{VERB}
+1509;clear laissez-faire;"{""NOUN VERB""}"
+1510;permafrost thaw;"{""NOUN VERB""}"
+1511;high-level;{VERB}
+1512;other high-level;"{""NOUN VERB""}"
+1513;all-too-real;{VERB}
+1514;purely;{VERB}
+1515;clear;{VERB}
+1516;concern;{VERB}
+1517;xi;{VERB}
+1518;anyone;{VERB}
+1519;serve;{VERB}
+1520;be serve;"{""NOUN VERB""}"
+1521;govern;{VERB}
+1522;cloud;{VERB}
+1523;unique;{VERB}
+1524;success;{VERB}
+1525;core success;"{""NOUN VERB""}"
+1526;currently;{VERB}
+1527;democratic;{VERB}
+1528;easy;{VERB}
+1529;military;{VERB}
+1530;afterwards;{VERB}
+1531;defence;{VERB}
+1532;embrace;{VERB}
+1533;case;{VERB}
+1534;await;{VERB}
+1535;notebook;{VERB}
+1536;seventy-eight-year-old;{VERB}
+1537;hundreds;{VERB}
+1538;solicitor;{VERB}
+1539;mainly;{VERB}
+1540;be mainly;"{""NOUN VERB""}"
+1541;qsr;{VERB}
+1542;rate;{VERB}
+1543;asset;{VERB}
+1544;further asset;"{""NOUN VERB""}"
+1545;syief;{VERB}
+1546;strong;{VERB}
+1547;gradual;{VERB}
+1548;given gradual;"{""NOUN VERB""}"
+1549;moreover;{VERB}
+1550;waning;{VERB}
+1551;print;{VERB}
+1552;persistency;{VERB}
+1553;lower;{VERB}
+1554;pbsff;{VERB}
+1555;confrontations;{VERB}
+1556;kid;{VERB}
+1557;peer;{VERB}
+1558;series;{VERB}
+1559;wildly;{VERB}
+1560;recipe;{VERB}
+1561;life;{VERB}
+1562;local;{VERB}
+1563;short;{VERB}
+1564;stop short;"{""NOUN VERB""}"
+1565;aren;{VERB}
+1566;hear;{VERB}
+1567;commend;{VERB}
+1568;confront;{VERB}
+1569;brutal;{VERB}
+1570;device;{VERB}
+1571;own device;"{""NOUN VERB""}"
+1572;progress;{VERB}
+1573;fortunately;{VERB}
+1574;month;{VERB}
+1575;only month;"{""NOUN VERB""}"
+1576;exports;{VERB}
+1577;film be;"{""NOUN VERB""}"
+1578;embed;{VERB}
+1579;alongside;{VERB}
+1580;film;{VERB}
+1581;explain;{VERB}
+1582;late;{VERB}
+1583;play late;"{""NOUN VERB""}"
+1584;extraordinary;{VERB}
+1585;choose;{VERB}
+1586;investigate;{VERB}
+1587;car;{VERB}
+1588;be investigate;"{""NOUN VERB""}"
+1589;pilot;{VERB}
+1590;crash;{VERB}
+1591;crash pilot;"{""NOUN VERB""}"
+1592;plane crash;"{""NOUN VERB""}"
+1593;pilot wife;"{""NOUN VERB""}"
+1594;plane crash pilot;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1595;plane;{VERB}
+1596;small plane;"{""NOUN VERB""}"
+1597;sister;{VERB}
+1598;shoot sister;"{""NOUN VERB""}"
+1599;lane;{VERB}
+1600;attack;{VERB}
+1601;passenger;{VERB}
+1602;updated;{VERB}
+1603;bus;{VERB}
+1604;suspend be;"{""NOUN VERB""}"
+1605;passenger updated;"{""NOUN VERB""}"
+1606;passenger updated 2015-09-01;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1607;driver;{VERB}
+1608;bus driver;"{""NOUN VERB""}"
+1609;local high;"{""NOUN VERB""}"
+1610;visit local high;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1611;inside;{VERB}
+1612;recover;{VERB}
+1613;baby inside;"{""NOUN VERB""}"
+1614;search;{VERB}
+1615;woman;{VERB}
+1616;custody;{VERB}
+1617;police woman;"{""NOUN VERB""}"
+1618;suspect custody;"{""NOUN VERB""}"
+1619;police woman shoot;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1620;volunteers;{VERB}
+1621;shift;{VERB}
+1622;books;{VERB}
+1623;wish give;"{""NOUN VERB""}"
+1624;invite;{VERB}
+1625;woman be;"{""NOUN VERB""}"
+1626;notice be;"{""NOUN VERB""}"
+1627;woman be only;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1628;increase;{VERB}
+1629;speaker be;"{""NOUN VERB""}"
+1630;woman have;"{""NOUN VERB""}"
+1631;few speaker be;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1632;reason think;"{""NOUN VERB""}"
+1633;noble reason think;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1634;front ’;"{""NOUN VERB""}"
+1635;boy be;"{""NOUN VERB""}"
+1636;boy be there;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1637;men have;"{""NOUN VERB""}"
+1638;veteran say;"{""NOUN VERB""}"
+1639;duty be;"{""NOUN VERB""}"
+1640;catch;{VERB}
+1641;woman get;"{""NOUN VERB""}"
+1642;get catch;"{""NOUN VERB""}"
+1643;backtrack;{VERB}
+1644;opposed;{VERB}
+1645;leader have;"{""NOUN VERB""}"
+1646;membership do;"{""NOUN VERB""}"
+1647;many membership do;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1648;minute show;"{""NOUN VERB""}"
+1649;away;{VERB}
+1650;soldier;{VERB}
+1651;yearbook say;"{""NOUN VERB""}"
+1652;be away;"{""NOUN VERB""}"
+1653;break soon;"{""NOUN VERB""}"
+1654;be away country;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1655;break soon get;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1656;have long;"{""NOUN VERB""}"
+1657;wa force;"{""NOUN VERB""}"
+1658;say press;"{""NOUN VERB""}"
+1659;have long express;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1660;husband get;"{""NOUN VERB""}"
+1661;suffer;{VERB}
+1662;election suffer;"{""NOUN VERB""}"
+1663;issue have;"{""NOUN VERB""}"
+1664;political issue have;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1665;issue have n't;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1666;reveal;{VERB}
+1667;office;{VERB}
+1668;article reveal;"{""NOUN VERB""}"
+1669;franchise be;"{""NOUN VERB""}"
+1670;limited franchise be;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1671;franchise be very;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1672;catch be;"{""NOUN VERB""}"
+1673;many catch be;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1674;hide;{VERB}
+1675;lesser;{VERB}
+1676;have find;"{""NOUN VERB""}"
+1677;trick give;"{""NOUN VERB""}"
+1678;leader wa;"{""NOUN VERB""}"
+1679;way let;"{""NOUN VERB""}"
+1680;men vote;"{""NOUN VERB""}"
+1681;fight men vote;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1682;marry;{VERB}
+1683;month be;"{""NOUN VERB""}"
+1684;claing;{VERB}
+1685;lie;{VERB}
+1686;narrative;{VERB}
+1687;cover;{VERB}
+1688;furies cover;"{""NOUN VERB""}"
+1689;suffragists cover;"{""NOUN VERB""}"
+1690;canadian suffragists cover;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1691;warn;{VERB}
+1692;book happen;"{""NOUN VERB""}"
+1693;wa meet;"{""NOUN VERB""}"
+1694;woman live;"{""NOUN VERB""}"
+1695;many woman live;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1696;woman live there;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1697;float;{VERB}
+1698;claim wa;"{""NOUN VERB""}"
+1699;one float;"{""NOUN VERB""}"
+1700;eat;{VERB}
+1701;campaign get;"{""NOUN VERB""}"
+1702;proportion be;"{""NOUN VERB""}"
+1703;high proportion be;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1704;nursing;{VERB}
+1705;having;{VERB}
+1706;wondering;{VERB}
+1707;day have;"{""NOUN VERB""}"
+1708;boob be;"{""NOUN VERB""}"
+1709;endless day have;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1710;boob be ever;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1711;harm;{VERB}
+1712;tell be;"{""NOUN VERB""}"
+1713;body be;"{""NOUN VERB""}"
+1714;own body be;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1715;preying;{VERB}
+1716;campaign be;"{""NOUN VERB""}"
+1717;campaign be silly;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1718;problem be;"{""NOUN VERB""}"
+1719;wrack;{VERB}
+1720;picture be;"{""NOUN VERB""}"
+1721;earth be;"{""NOUN VERB""}"
+1722;time make;"{""NOUN VERB""}"
+1723;reality be;"{""NOUN VERB""}"
+1724;breastfeeding;{VERB}
+1725;struggle;{VERB}
+1726;baby be;"{""NOUN VERB""}"
+1727;nurse;{VERB}
+1728;expect;{VERB}
+1729;suppose;{VERB}
+1730;meal think;"{""NOUN VERB""}"
+1731;healthy meal think;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1732;slab;{VERB}
+1733;tie;{VERB}
+1734;baby try;"{""NOUN VERB""}"
+1735;first baby try;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1736;paternity leave;"{""NOUN VERB""}"
+1737;long paternity leave;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1738;mum worry;"{""NOUN VERB""}"
+1739;new mum worry;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1740;mum worry about;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1741;hit;{VERB}
+1742;kid have n't;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1743;ditch;{VERB}
+1744;scaremongering;{VERB}
+1745;mum focus;"{""NOUN VERB""}"
+1746;new mum focus;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1747;oversee;{VERB}
+1748;midwife oversee;"{""NOUN VERB""}"
+1749;thing eat;"{""NOUN VERB""}"
+1750;burger be;"{""NOUN VERB""}"
+1751;only thing eat;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1752;advocate;{VERB}
+1753;grab;{VERB}
+1754;apple be;"{""NOUN VERB""}"
+1755;overhaul;{VERB}
+1756;time overhaul;"{""NOUN VERB""}"
+1757;diet become;"{""NOUN VERB""}"
+1758;whilst 're;"{""NOUN VERB""}"
+1759;swallow;{VERB}
+1760;pill swallow;"{""NOUN VERB""}"
+1761;concern 're;"{""NOUN VERB""}"
+1762;way help;"{""NOUN VERB""}"
+1763;period doe;"{""NOUN VERB""}"
+1764;year be;"{""NOUN VERB""}"
+1765;encourage;{VERB}
+1766;pharmacy ask;"{""NOUN VERB""}"
+1767;local pharmacy ask;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1768;debate be;"{""NOUN VERB""}"
+1769;debate be no;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1770;miracle find;"{""NOUN VERB""}"
+1771;gorge;{VERB}
+1772;live 'm;"{""NOUN VERB""}"
+1773;much live 'm;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1774;live 'm not;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1775;bland;{VERB}
+1776;salad be;"{""NOUN VERB""}"
+1777;salad be n't;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1778;roast;{VERB}
+1779;potato;{VERB}
+1780;prepare once;"{""NOUN VERB""}"
+1781;prepare once 've;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1782;alternate;{VERB}
+1783;deserve;{VERB}
+1784;surviving;{VERB}
+1785;blog surviving;"{""NOUN VERB""}"
+1786;perform;{VERB}
+1787;straddle;{VERB}
+1788;sacred;{VERB}
+1789;scene go;"{""NOUN VERB""}"
+1790;s “;"{""NOUN VERB""}"
+1791;album straddle;"{""NOUN VERB""}"
+1792;line sacred;"{""NOUN VERB""}"
+1793;double-platinum album straddle;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1794;spawn;{VERB}
+1795;is;{VERB}
+1796;debut;{VERB}
+1797;hit live;"{""NOUN VERB""}"
+1798;spark;{VERB}
+1799;typical;{VERB}
+1800;three-minute;{VERB}
+1801;gold spark;"{""NOUN VERB""}"
+1802;radio hit;"{""NOUN VERB""}"
+1803;provided;{VERB}
+1804;knows;{VERB}
+1805;discus;{VERB}
+1806;receive;{VERB}
+1807;miscarriage;{VERB}
+1808;photo provided;"{""NOUN VERB""}"
+1809;album ”;"{""NOUN VERB""}"
+1810;record knows;"{""NOUN VERB""}"
+1811;comfort say;"{""NOUN VERB""}"
+1812;time lose;"{""NOUN VERB""}"
+1813;year lose;"{""NOUN VERB""}"
+1814;baby miscarriage;"{""NOUN VERB""}"
+1815;new record knows;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1816;recent year lose;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1817;tickets s;"{""NOUN VERB""}"
+1818;locate;{VERB}
+1819;coordinate;{VERB}
+1820;relate;{VERB}
+1821;strain;{VERB}
+1822;czar coordinate;"{""NOUN VERB""}"
+1823;reflect;{VERB}
+1824;comply;{VERB}
+1825;committee say;"{""NOUN VERB""}"
+1826;appointment reflect;"{""NOUN VERB""}"
+1827;admission have;"{""NOUN VERB""}"
+1828;admission have not;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1829;adding;{VERB}
+1830;compliance;{VERB}
+1831;bureaucracy address;"{""NOUN VERB""}"
+1832;arrangement mean;"{""NOUN VERB""}"
+1833;proof be;"{""NOUN VERB""}"
+1834;officials say;"{""NOUN VERB""}"
+1835;revamp;{VERB}
+1836;effort revamp;"{""NOUN VERB""}"
+1837;major effort revamp;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1838;prevent;{VERB}
+1839;enter;{VERB}
+1840;lead;{VERB}
+1841;time show;"{""NOUN VERB""}"
+1842;terrorist enter;"{""NOUN VERB""}"
+1843;future lead;"{""NOUN VERB""}"
+1844;retire;{VERB}
+1845;post wa;"{""NOUN VERB""}"
+1846;application follow;"{""NOUN VERB""}"
+1847;air have;"{""NOUN VERB""}"
+1848;travel;{VERB}
+1849;attempt travel;"{""NOUN VERB""}"
+1850;attempt travel abroad;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1851;month have;"{""NOUN VERB""}"
+1852;past month have;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1853;investigation say;"{""NOUN VERB""}"
+1854;bureau;{VERB}
+1855;vet;{VERB}
+1856;addition bureau;"{""NOUN VERB""}"
+1857;personnel have;"{""NOUN VERB""}"
+1858;lawsuit keep;"{""NOUN VERB""}"
+1859;other personnel have;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1860;various lawsuit keep;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1861;personnel have also;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1862;request;{VERB}
+1863;department be;"{""NOUN VERB""}"
+1864;meet request;"{""NOUN VERB""}"
+1865;pile;{VERB}
+1866;requests be;"{""NOUN VERB""}"
+1867;requests be also;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1868;task;{VERB}
+1869;addition investigate;"{""NOUN VERB""}"
+1870;ha task;"{""NOUN VERB""}"
+1871;say take;"{""NOUN VERB""}"
+1872;official say take;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1873;be n't;"{""NOUN VERB""}"
+1874;be n't cooperate;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1875;document;{VERB}
+1876;redact;{VERB}
+1877;classify;{VERB}
+1878;meet document;"{""NOUN VERB""}"
+1879;process ha;"{""NOUN VERB""}"
+1880;failure redact;"{""NOUN VERB""}"
+1881;information include;"{""NOUN VERB""}"
+1882;say be;"{""NOUN VERB""}"
+1883;sensitive information include;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1884;personnel vet;"{""NOUN VERB""}"
+1885;classification upgrade;"{""NOUN VERB""}"
+1886;seek;{VERB}
+1887;balance;{VERB}
+1888;ensure;{VERB}
+1889;try ensure;"{""NOUN VERB""}"
+1890;deficit;{VERB}
+1891;quota set;"{""NOUN VERB""}"
+1892;hop;{VERB}
+1893;say hop;"{""NOUN VERB""}"
+1894;appointment give;"{""NOUN VERB""}"
+1895;official say hop;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1896;clean;{VERB}
+1897;tape need;"{""NOUN VERB""}"
+1898;red tape need;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1899;cross;{VERB}
+1900;cut;{VERB}
+1901;someone cross;"{""NOUN VERB""}"
+1902;bureau get;"{""NOUN VERB""}"
+1903;information clear;"{""NOUN VERB""}"
+1904;information clear soon;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1905;volume be;"{""NOUN VERB""}"
+1906;volume be not;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1907;triple;{VERB}
+1908;official say;"{""NOUN VERB""}"
+1909;document have;"{""NOUN VERB""}"
+1910;office process;"{""NOUN VERB""}"
+1911;small office process;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1912;request ha;"{""NOUN VERB""}"
+1913;request ha not;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1914;overwhelm;{VERB}
+1915;resourced;{VERB}
+1916;view be;"{""NOUN VERB""}"
+1917;process be;"{""NOUN VERB""}"
+1918;process want;"{""NOUN VERB""}"
+1919;sclerotic process want;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1920;ha be fairly;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1921;implement;{VERB}
+1922;system;{VERB}
+1923;addition ensure;"{""NOUN VERB""}"
+1924;document be;"{""NOUN VERB""}"
+1925;manner be;"{""NOUN VERB""}"
+1926;sector implement;"{""NOUN VERB""}"
+1927;improve system;"{""NOUN VERB""}"
+1928;timely manner be;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1929;private sector implement;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1930;technology improve system;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1931;annoy;{VERB}
+1932;department ha;"{""NOUN VERB""}"
+1933;prompt;{VERB}
+1934;part ha;"{""NOUN VERB""}"
+1935;server have;"{""NOUN VERB""}"
+1936;add be;"{""NOUN VERB""}"
+1937;servant have;"{""NOUN VERB""}"
+1938;official add be;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1939;public servant have;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1940;add be also;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1941;call;{VERB}
+1942;drag;{VERB}
+1943;accuse;{VERB}
+1944;chair have;"{""NOUN VERB""}"
+1945;dedicate;{VERB}
+1946;resolve;{VERB}
+1947;agency be;"{""NOUN VERB""}"
+1948;request expect;"{""NOUN VERB""}"
+1949;fashion say;"{""NOUN VERB""}"
+1950;rapid fashion say;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1951;reason ’;"{""NOUN VERB""}"
+1952;reason ’ m;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1953;growing;{VERB}
+1954;football;{VERB}
+1955;be ironic;"{""NOUN VERB""}"
+1956;graduate;{VERB}
+1957;mother ’;"{""NOUN VERB""}"
+1958;class graduate;"{""NOUN VERB""}"
+1959;co-ed class graduate;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1960;weren;{VERB}
+1961;thanksgiving have;"{""NOUN VERB""}"
+1962;game weren;"{""NOUN VERB""}"
+1963;spend;{VERB}
+1964;remember;{VERB}
+1965;name become;"{""NOUN VERB""}"
+1966;time remember;"{""NOUN VERB""}"
+1967;degree;{VERB}
+1968;order spend;"{""NOUN VERB""}"
+1969;time have;"{""NOUN VERB""}"
+1970;job work;"{""NOUN VERB""}"
+1971;teach;{VERB}
+1972;coach;{VERB}
+1973;return;{VERB}
+1974;itch get;"{""NOUN VERB""}"
+1975;coach say;"{""NOUN VERB""}"
+1976;itch get back;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1977;principal spend;"{""NOUN VERB""}"
+1978;assistant principal spend;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1979;fall become;"{""NOUN VERB""}"
+1980;question ’;"{""NOUN VERB""}"
+1981;rank;{VERB}
+1982;serf;{VERB}
+1983;student;{VERB}
+1984;s student;"{""NOUN VERB""}"
+1985;year s student;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1986;school offer;"{""NOUN VERB""}"
+1987;student graduate;"{""NOUN VERB""}"
+1988;mean student graduate;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1989;student graduate much;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1990;gift;{VERB}
+1991;meet discus;"{""NOUN VERB""}"
+1992;school be;"{""NOUN VERB""}"
+1993;secret school be;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+1994;guy;{VERB}
+1995;job.;{VERB}
+1996;tradition;{VERB}
+1997;understand;{VERB}
+1998;different;{VERB}
+1999;cat.;{VERB}
+2000;repeatedly;{VERB}
+2001;be stay;"{""NOUN VERB""}"
+2002;let guy;"{""NOUN VERB""}"
+2003;freshman “;"{""NOUN VERB""}"
+2004;here understand;"{""NOUN VERB""}"
+2005;table repeatedly;"{""NOUN VERB""}"
+2006;here understand be;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2007;alumnus have;"{""NOUN VERB""}"
+2008;you. ”;"{""NOUN VERB""}"
+2009;minorities make;"{""NOUN VERB""}"
+2010;environment feel;"{""NOUN VERB""}"
+2011;daughter –;"{""NOUN VERB""}"
+2012;wife be;"{""NOUN VERB""}"
+2013;this.;{VERB}
+2014;unassuming;{VERB}
+2015;position do;"{""NOUN VERB""}"
+2016;notepad ’;"{""NOUN VERB""}"
+2017;someone;{VERB}
+2018;top ’;"{""NOUN VERB""}"
+2019;inspire someone;"{""NOUN VERB""}"
+2020;interview ’ s;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2021;faith say;"{""NOUN VERB""}"
+2022;everything come;"{""NOUN VERB""}"
+2023;faith make;"{""NOUN VERB""}"
+2024;reason be;"{""NOUN VERB""}"
+2025;search do;"{""NOUN VERB""}"
+2026;nationwide search do;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2027;humility;{VERB}
+2028;be humility;"{""NOUN VERB""}"
+2029;quality be humility;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2030;seriously.;{VERB}
+2031;mention;{VERB}
+2032;very seriously.;"{""NOUN VERB""}"
+2033;journey prestigious;"{""NOUN VERB""}"
+2034;scant mention;"{""NOUN VERB""}"
+2035;take very seriously.;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2036;make scant mention;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2037;very seriously. ”;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2038;loath;{VERB}
+2039;principal seem;"{""NOUN VERB""}"
+2040;principal seem mystify;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2041;re;{VERB}
+2042;search become;"{""NOUN VERB""}"
+2043;nationwide search become;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2044;tour;{VERB}
+2045;house say;"{""NOUN VERB""}"
+2046;property 're;"{""NOUN VERB""}"
+2047;multiple property 're;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2048;approve;{VERB}
+2049;palardy say;"{""NOUN VERB""}"
+2050;official get;"{""NOUN VERB""}"
+2051;board approve;"{""NOUN VERB""}"
+2052;consider;{VERB}
+2053;town ha;"{""NOUN VERB""}"
+2054;unit be;"{""NOUN VERB""}"
+2055;rental unit be;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2056;transform;{VERB}
+2057;property wa;"{""NOUN VERB""}"
+2058;market say;"{""NOUN VERB""}"
+2059;property wa n't;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2060;hint;{VERB}
+2061;sale say;"{""NOUN VERB""}"
+2062;pursuit hint;"{""NOUN VERB""}"
+2063;something do;"{""NOUN VERB""}"
+2064;new pursuit hint;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2065;couple sell;"{""NOUN VERB""}"
+2066;extend;{VERB}
+2067;fire extend;"{""NOUN VERB""}"
+2068;roof say;"{""NOUN VERB""}"
+2069;heavy fire extend;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2070;roof say earlier;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2071;inquiry say;"{""NOUN VERB""}"
+2072;several inquiry say;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2073;relocate;{VERB}
+2074;residents have;"{""NOUN VERB""}"
+2075;house be not;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2076;convert;{VERB}
+2077;property convert;"{""NOUN VERB""}"
+2078;entertain;{VERB}
+2079;place 're;"{""NOUN VERB""}"
+2080;couple be;"{""NOUN VERB""}"
+2081;property be;"{""NOUN VERB""}"
+2082;employee be;"{""NOUN VERB""}"
+2083;employee be still;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2084;operate;{VERB}
+2085;wa know;"{""NOUN VERB""}"
+2086;elect;{VERB}
+2087;wake;{VERB}
+2088;minister elect;"{""NOUN VERB""}"
+2089;promise focus;"{""NOUN VERB""}"
+2090;prime minister elect;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2091;label;{VERB}
+2092;opposition wa;"{""NOUN VERB""}"
+2093;mansion wa;"{""NOUN VERB""}"
+2094;pink mansion wa;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2095;convulse;{VERB}
+2096;backroom;{VERB}
+2097;shake;{VERB}
+2098;public;{VERB}
+2099;leader be;"{""NOUN VERB""}"
+2100;ha recent;"{""NOUN VERB""}"
+2101;be convulse;"{""NOUN VERB""}"
+2102;have shake;"{""NOUN VERB""}"
+2103;instability ha recent;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2104;year be convulse;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2105;depose;{VERB}
+2106;mandate depose;"{""NOUN VERB""}"
+2107;strong mandate depose;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2108;reporting;{VERB}
+2109;dollar reporting;"{""NOUN VERB""}"
+2110;oust;{VERB}
+2111;vote oust;"{""NOUN VERB""}"
+2112;entrepreneur be;"{""NOUN VERB""}"
+2113;entrepreneur be hugely;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2114;prosperity;{VERB}
+2115;reporter;{VERB}
+2116;optimism be;"{""NOUN VERB""}"
+2117;ensure prosperity;"{""NOUN VERB""}"
+2118;fill optimism be;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2119;cope;{VERB}
+2120;poll show;"{""NOUN VERB""}"
+2121;struggle cope;"{""NOUN VERB""}"
+2122;turnbull;{VERB}
+2123;widely;{VERB}
+2124;statement;{VERB}
+2125;medium;{VERB}
+2126;single statement;"{""NOUN VERB""}"
+2127;corbynites;{VERB}
+2128;paper believe;"{""NOUN VERB""}"
+2129;rightwing;{VERB}
+2130;dealing be;"{""NOUN VERB""}"
+2131;engage;{VERB}
+2132;wa engage;"{""NOUN VERB""}"
+2133;sweat;{VERB}
+2134;guarantee;{VERB}
+2135;sophomore;{VERB}
+2136;side;{VERB}
+2137;super-state senior;"{""NOUN VERB""}"
+2138;victory become;"{""NOUN VERB""}"
+2139;6-foot-2;{VERB}
+2140;be final;"{""NOUN VERB""}"
+2141;caveat;{VERB}
+2142;introduce find;"{""NOUN VERB""}"
+2143;order here;"{""NOUN VERB""}"
+2144;big caveat;"{""NOUN VERB""}"
+2145;kit 's also;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2146;have such;"{""NOUN VERB""}"
+2147;nice thing;"{""NOUN VERB""}"
+2148;family people;"{""NOUN VERB""}"
+2149;have family people;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2150;refrigerator;{VERB}
+2151;lot;{VERB}
+2152;example;{VERB}
+2153;flavor;{VERB}
+2154;different flavor;"{""NOUN VERB""}"
+2155;setting;{VERB}
+2156;point;{VERB}
+2157;good;{VERB}
+2158;tutorial get;"{""NOUN VERB""}"
+2159;graphical;{VERB}
+2160;object;{VERB}
+2161;similar object;"{""NOUN VERB""}"
+2162;foray;{VERB}
+2163;free;{VERB}
+2164;simple;{VERB}
+2165;create simple;"{""NOUN VERB""}"
+2166;system create simple;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2167;eclipse;{VERB}
+2168;class;{VERB}
+2169;be class;"{""NOUN VERB""}"
+2170;compiler;{VERB}
+2171;audience;{VERB}
+2172;teen;{VERB}
+2173;firmly;{VERB}
+2174;chairwoman firmly;"{""NOUN VERB""}"
+2175;vice;{VERB}
+2176;labor-intensive;{VERB}
+2177;s labor-intensive;"{""NOUN VERB""}"
+2178;shrug call;"{""NOUN VERB""}"
+2179;honest;{VERB}
+2180;hot;{VERB}
+2181;news;{VERB}
+2182;conservative;{VERB}
+2183;force s;"{""NOUN VERB""}"
+2184;help force s;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2185;run “;"{""NOUN VERB""}"
+2186;ha run “;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2187;comment;{VERB}
+2188;recent comment;"{""NOUN VERB""}"
+2189;insist;{VERB}
+2190;few state;"{""NOUN VERB""}"
+2191;ordinance;{VERB}
+2192;local ordinance;"{""NOUN VERB""}"
+2193;type think;"{""NOUN VERB""}"
+2194;holdout;{VERB}
+2195;surprise;{VERB}
+2196;presidential;{VERB}
+2197;socially;{VERB}
+2198;french;{VERB}
+2199;town;{VERB}
+2200;folk town;"{""NOUN VERB""}"
+2201;behoove;{VERB}
+2202;forum;{VERB}
+2203;board;{VERB}
+2204;member help;"{""NOUN VERB""}"
+2205;special ha;"{""NOUN VERB""}"
+2206;particular;{VERB}
+2207;anytime have;"{""NOUN VERB""}"
+2208;everything;{VERB}
+2209;pryor;{VERB}
+2210;definitely;{VERB}
+2211;back;{VERB}
+2212;past;{VERB}
+2213;look back;"{""NOUN VERB""}"
+2214;ab;{VERB}
+2215;hibernate;{VERB}
+2216;http;{VERB}
+2217;m go;"{""NOUN VERB""}"
+2218;family;{VERB}
+2219;develop program;"{""NOUN VERB""}"
+2220;goal be;"{""NOUN VERB""}"
+2221;raise.me;{VERB}
+2222;radio;{VERB}
+2223;ey;{VERB}
+2224;australian release;"{""NOUN VERB""}"
+2225;be continue;"{""NOUN VERB""}"
+2226;formal;{VERB}
+2227;be formal;"{""NOUN VERB""}"
+2228;cap;{VERB}
+2229;look cap;"{""NOUN VERB""}"
+2230;director;{VERB}
+2231;government;{VERB}
+2232;following;{VERB}
+2233;uncle be;"{""NOUN VERB""}"
+2234;finish raise;"{""NOUN VERB""}"
+2235;child do;"{""NOUN VERB""}"
+2236;same finish raise;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2237;righteous child do;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2238;climb;{VERB}
+2239;escape;{VERB}
+2240;rope climb;"{""NOUN VERB""}"
+2241;window escape;"{""NOUN VERB""}"
+2242;child love;"{""NOUN VERB""}"
+2243;open window escape;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2244;rise;{VERB}
+2245;dust;{VERB}
+2246;u “;"{""NOUN VERB""}"
+2247;destiny be;"{""NOUN VERB""}"
+2248;time rise;"{""NOUN VERB""}"
+2249;token be;"{""NOUN VERB""}"
+2250;weakness be;"{""NOUN VERB""}"
+2251;same token be;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2252;give weakness be;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2253;destiny be not;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2254;time rise up;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2255;prophet write;"{""NOUN VERB""}"
+2256;men come;"{""NOUN VERB""}"
+2257;ancient prophet write;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2258;humble;{VERB}
+2259;grace be;"{""NOUN VERB""}"
+2260;men humble;"{""NOUN VERB""}"
+2261;humble grace be;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2262;sufficient men humble;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2263;unto;{VERB}
+2264;me—the;{VERB}
+2265;message;{VERB}
+2266;show unto;"{""NOUN VERB""}"
+2267;bringeth me—the;"{""NOUN VERB""}"
+2268;beautiful message;"{""NOUN VERB""}"
+2269;hand be;"{""NOUN VERB""}"
+2270;hand be so;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2271;fight;{VERB}
+2272;purpose fight;"{""NOUN VERB""}"
+2273;purpose fight back;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2274;suck;{VERB}
+2275;leaf;{VERB}
+2276;ourselves leaf;"{""NOUN VERB""}"
+2277;theater use;"{""NOUN VERB""}"
+2278;statement have;"{""NOUN VERB""}"
+2279;friend saw;"{""NOUN VERB""}"
+2280;over;{VERB}
+2281;phrase help;"{""NOUN VERB""}"
+2282;adversary over;"{""NOUN VERB""}"
+2283;enemy be;"{""NOUN VERB""}"
+2284;leader keep;"{""NOUN VERB""}"
+2285;religious leader keep;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2286;stand;{VERB}
+2287;ephesians say;"{""NOUN VERB""}"
+2288;love u;"{""NOUN VERB""}"
+2289;keep faith;"{""NOUN VERB""}"
+2290;friend love u;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2291;thy;{VERB}
+2292;order provide;"{""NOUN VERB""}"
+2293;faithful;{VERB}
+2294;remain.;{VERB}
+2295;tear;{VERB}
+2296;change faithful;"{""NOUN VERB""}"
+2297;page sing;"{""NOUN VERB""}"
+2298;month wa;"{""NOUN VERB""}"
+2299;message receive;"{""NOUN VERB""}"
+2300;last month wa;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2301;tempt;{VERB}
+2302;message be;"{""NOUN VERB""}"
+2303;everyone tempt;"{""NOUN VERB""}"
+2304;weakness know;"{""NOUN VERB""}"
+2305;u weakness know;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2306;weakness know best;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2307;able;{VERB}
+2308;physical;{VERB}
+2309;manifestation;{VERB}
+2310;scar;{VERB}
+2311;be physical;"{""NOUN VERB""}"
+2312;u down;"{""NOUN VERB""}"
+2313;debilitate scar;"{""NOUN VERB""}"
+2314;beat be not;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2315;drag u down;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2316;be not best;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2317;offence commit;"{""NOUN VERB""}"
+2318;girlfriend lose;"{""NOUN VERB""}"
+2319;pointing;{VERB}
+2320;insurance say;"{""NOUN VERB""}"
+2321;third-party insurance say;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2322;address s;"{""NOUN VERB""}"
+2323;man have;"{""NOUN VERB""}"
+2324;student commit;"{""NOUN VERB""}"
+2325;teenage student commit;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2326;swerve;{VERB}
+2327;mount;{VERB}
+2328;midnight lose;"{""NOUN VERB""}"
+2329;car cause;"{""NOUN VERB""}"
+2330;fling;{VERB}
+2331;friend have;"{""NOUN VERB""}"
+2332;men be;"{""NOUN VERB""}"
+2333;today wa;"{""NOUN VERB""}"
+2334;reveal have;"{""NOUN VERB""}"
+2335;drug include;"{""NOUN VERB""}"
+2336;effect include;"{""NOUN VERB""}"
+2337;speed;{VERB}
+2338;court have;"{""NOUN VERB""}"
+2339;wa part;"{""NOUN VERB""}"
+2340;fact wa;"{""NOUN VERB""}"
+2341;drug be;"{""NOUN VERB""}"
+2342;precious;{VERB}
+2343;investment;{VERB}
+2344;countless;{VERB}
+2345;be precious;"{""NOUN VERB""}"
+2346;perform task;"{""NOUN VERB""}"
+2347;shouldn ’;"{""NOUN VERB""}"
+2348;be do;"{""NOUN VERB""}"
+2349;t be do;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2350;strategy include;"{""NOUN VERB""}"
+2351;efficiency be;"{""NOUN VERB""}"
+2352;most important;"{""NOUN VERB""}"
+2353;details.3 driving;"{""NOUN VERB""}"
+2354;objective –;"{""NOUN VERB""}"
+2355;most important growth;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2356;boost;{VERB}
+2357;outsource;{VERB}
+2358;intend show;"{""NOUN VERB""}"
+2359;size boost;"{""NOUN VERB""}"
+2360;technique make;"{""NOUN VERB""}"
+2361;delegate outsource;"{""NOUN VERB""}"
+2362;problem-solving technique make;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2363;kick;{VERB}
+2364;building;{VERB}
+2365;webcast building;"{""NOUN VERB""}"
+2366;efficiency drive;"{""NOUN VERB""}"
+2367;advisors register;"{""NOUN VERB""}"
+2368;workshop explore;"{""NOUN VERB""}"
+2369;regional workshop explore;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2370;workshop take;"{""NOUN VERB""}"
+2371;place follow;"{""NOUN VERB""}"
+2372;first workshop take;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2373;running;{VERB}
+2374;paper running;"{""NOUN VERB""}"
+2375;business show;"{""NOUN VERB""}"
+2376;perspective paper running;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2377;efficient business show;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2378;tdameritrade.com;{VERB}
+2379;businessperformance tdameritrade.com;"{""NOUN VERB""}"
+2380;firm be;"{""NOUN VERB""}"
+2381;unaffiliated firm be;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2382;firm be not;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2383;team allow;"{""NOUN VERB""}"
+2384;advisor run;"{""NOUN VERB""}"
+2385;avoiding;{VERB}
+2386;advisor take;"{""NOUN VERB""}"
+2387;responsibility spend;"{""NOUN VERB""}"
+2388;advisor turn;"{""NOUN VERB""}"
+2389;education make;"{""NOUN VERB""}"
+2390;decide;{VERB}
+2391;client want;"{""NOUN VERB""}"
+2392;control help;"{""NOUN VERB""}"
+2393;recognize;{VERB}
+2394;reserve;{VERB}
+2395;right reserve;"{""NOUN VERB""}"
+2396;source right reserve;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2397;ria;{VERB}
+2398;top-line;{VERB}
+2399;management set;"{""NOUN VERB""}"
+2400;priority be;"{""NOUN VERB""}"
+2401;show ria;"{""NOUN VERB""}"
+2402;improve top-line;"{""NOUN VERB""}"
+2403;firm improve top-line;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2404;operation achieve;"{""NOUN VERB""}"
+2405;streamline operation achieve;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2406;tracking;{VERB}
+2407;track;{VERB}
+2408;program track;"{""NOUN VERB""}"
+2409;time devote;"{""NOUN VERB""}"
+2410;much time devote;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2411;evaluate;{VERB}
+2412;advisor better;"{""NOUN VERB""}"
+2413;time evaluate;"{""NOUN VERB""}"
+2414;scrutinize;{VERB}
+2415;doing;{VERB}
+2416;incoming;{VERB}
+2417;leaving;{VERB}
+2418;unfinished;{VERB}
+2419;identify;{VERB}
+2420;advisor scrutinize;"{""NOUN VERB""}"
+2421;day find;"{""NOUN VERB""}"
+2422;trap doing;"{""NOUN VERB""}"
+2423;task be;"{""NOUN VERB""}"
+2424;socialize incoming;"{""NOUN VERB""}"
+2425;travel ’;"{""NOUN VERB""}"
+2426;productivity-killers be;"{""NOUN VERB""}"
+2427;advisor improve;"{""NOUN VERB""}"
+2428;role say;"{""NOUN VERB""}"
+2429;task unfinished;"{""NOUN VERB""}"
+2430;advisor identify;"{""NOUN VERB""}"
+2431;distraction create;"{""NOUN VERB""}"
+2432;plan make;"{""NOUN VERB""}"
+2433;focus more;"{""NOUN VERB""}"
+2434;much socialize incoming;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2435;many productivity-killers be;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2436;much advisor identify;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2437;task unfinished not;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2438;arise;{VERB}
+2439;ability;{VERB}
+2440;overall;{VERB}
+2441;distraction arise;"{""NOUN VERB""}"
+2442;life become;"{""NOUN VERB""}"
+2443;accomplish goal;"{""NOUN VERB""}"
+2444;be first;"{""NOUN VERB""}"
+2445;increase overall;"{""NOUN VERB""}"
+2446;daily life become;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2447;specify;{VERB}
+2448;number;{VERB}
+2449;office have;"{""NOUN VERB""}"
+2450;time turn;"{""NOUN VERB""}"
+2451;example consider;"{""NOUN VERB""}"
+2452;reserve specify;"{""NOUN VERB""}"
+2453;visitors. be;"{""NOUN VERB""}"
+2454;do more;"{""NOUN VERB""}"
+2455;inspire look;"{""NOUN VERB""}"
+2456;hard time turn;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2457;people be frequently;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2458;time turn away;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2459;customer service;"{""NOUN VERB""}"
+2460;generate customer order;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2461;cancel insufficient-stock order;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2462;customer service;"{""NOUN VERB""}"
+2463;customer service;"{""NOUN VERB""}"
+2464;generate customer order;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2465;local stock control;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2466;customer order delivery;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2467;sale register;"{""NOUN VERB""}"
+2468;sales statistics;"{""NOUN VERB""}"
+2469;customer service;"{""NOUN VERB""}"
+2470;generate customer order;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2471;local stock control;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2472;customer order delivery;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2473;sale register;"{""NOUN VERB""}"
+2474;home sale delivery;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2475;customer service;"{""NOUN VERB""}"
+2476;generate customer order;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2477;local stock control;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2478;customer order delivery;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2479;billing custom sale;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2480;customer service;"{""NOUN VERB""}"
+2481;generate customer order;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2482;local stock control;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2483;complete customer order;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2484;remote stock control;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2485;emit customer quotation;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2486;customer service;"{""NOUN VERB""}"
+2487;generate customer order;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2488;local stock control;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2489;complete customer order;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2490;remote stock control;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2491;emit customer quotation;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2492;cancel customer order;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2493;customer service;"{""NOUN VERB""}"
+2494;generate customer order;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2495;local stock control;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2496;complete customer order;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2497;remote stock control;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2498;emit customer quotation;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2499;customer order delivery;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
+2500;sale register;"{""NOUN VERB""}"
+2501;sales statistics;"{""NOUN VERB""}"
+2502;home sale delivery;"{""NOUN VERB NOUN / ADEJCTIVE NOUN VERB / NOUN VERB ADVERB""}"
