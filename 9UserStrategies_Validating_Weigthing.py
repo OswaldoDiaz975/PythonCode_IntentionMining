@@ -14,7 +14,7 @@ strul = list(itertools.chain.from_iterable(lstrul))
 ## SQL COMMANDS SPECIFICATION
 # Data load of strategies with the supervising rules application
 sql = """INSERT INTO strategy_weight(strategy_name, weight) VALUES(%s,%s)"""
-## SUPERVISED MACHINE LEARNNING THOUGH THE BUSINESS RULES (HEURISTIC RULES)
+## VALIDATING AND WEIGHTED THROUGH THE BUSINESS RULES (HEURISTIC RULES)
 # Verification of supervising rules
 TRADING = ['order', 'quotation', 'stock', 'sale', 'price', 'customer', 'user']
 DEALING = ['seller', 'buyer', 'bill', 'offer', 'promotion', 'billing']
