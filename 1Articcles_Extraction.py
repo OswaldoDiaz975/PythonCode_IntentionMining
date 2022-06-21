@@ -1,7 +1,7 @@
 import csv
 import psycopg2
 ## DATABASE CONNECTION AND CURSOR DEFINITION
-conexion = psycopg2.connect(database="postgres", user="postgres", password="test")
+conexion = psycopg2.connect(database="postgres", user="postgres", password="phd1522")
 cursor=conexion.cursor()
 ## SQL COMMANDS DEFINITION
 sql="""INSERT INTO articles(doc_id, doc_text) VALUES (%s,%s)"""

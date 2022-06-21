@@ -1,0 +1,53 @@
+1;2019-11-20:10.20.30;Customer service
+1;2019-11-20:15.20.31;Generate customer order
+1;2019-11-20:23.10.34;Cancel insufficient-stock order
+2;2019-11-20:11.10.35;Customer service
+3;2019-11-20:11.10.35;Customer service
+3;2019-11-20:11.10.36;Generate customer order
+3;2019-11-20:11.10.37;Local stock control
+3;2019-11-20:11.10.38;Deliver customer order
+3;2019-11-20:11.10.39;Register sale
+3;2019-11-20:11.10.40;Sales record
+4;2019-11-20:10.21.41;Customer service
+4;2019-11-20:15.21.42;Generate customer order
+4;2019-11-20:16.21.43;Local stock control
+4;2019-11-20:22.21.44;Deliver customer order
+4;2019-11-21:08.21.46;Register sale
+4;2019-11-21:23.21.45;Home sale delivery
+5;2019-11-20:15.30.31;Customer service
+5;2019-11-20:18.30.32;Generate customer order
+5;2019-11-20:19.30.33;Local stock control
+5;2019-11-20:20.30.34;Deliver customer order
+5;2019-11-21:10.30.37;Billing customer sale
+7;2019-11-21:14.30.43;Customer service
+7;2019-11-21:14.35.44;Generate customer order
+7;2019-11-21:14.50.45;Local stock control
+7;2019-11-21:16.30.46;Complete customer order
+7;2019-11-21:16.45.47;Remote stock control
+7;2019-11-21:17.30.48;Emit customer quotation
+8;2019-11-21:14.30.49;Customer service
+8;2019-11-21:15.30.50;Generate customer order
+8;2019-11-21:17.30.51;Local stock control
+8;2019-11-21:18.30.52;Complete customer order
+8;2019-11-21:19.30.53;Remote stock control
+8;2019-11-21:17.50.54;Emit customer quotation
+8;2019-11-21:17.55.55;Cancel customer order
+9;2019-11-21:16.55.56;Customer service
+9;2019-11-21:17.55.57;Generate customer order
+9;2019-11-21:19.55.58;Local stock control
+9;2019-11-21:23.15.02;Complete customer order
+9;2019-11-21:23.35.31;Remote stock control
+9;2019-11-22:09.55.42;Emit customer quotation
+9;2019-11-22:11.55.25;Deliver customer order
+9;2019-11-22:11.55.08;Register sale
+9;2019-11-22:12.55.33;Sales record
+9;2019-11-22:20.55.12;Home sale delivery
+10;2019-11-23:10.30.5;Customer service
+10;2019-11-23:11:00.0;Customer empathy
+10;2019-11-23:15.20.25;Generate customer order
+11;2019-11-23:16.15.10;Customer service
+11;2019-11-23:16.30.00;E-commerce omni-channel
+11;2019-11-23:16.45.10;Complete customer order
+12;2019-11-24:11.20.15;Customer service
+12;2019-11-24:20.10.24;Customer e-commerce
+12;2019-11-25:10:10:12;Deliver customer order

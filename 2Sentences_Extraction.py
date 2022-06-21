@@ -3,7 +3,7 @@ import itertools
 import nltk
 from nltk.stem import WordNetLemmatizer
 ## DATABASE CONNECTION AND CURSOR DEFINITION
-conexion = psycopg2.connect("host='localhost' port='5432' dbname='postgres' user='postgres' password='test'")
+conexion = psycopg2.connect("host='localhost' port='5432' dbname='postgres' user='postgres' password='phd1522'")
 cursor=conexion.cursor()
 ## DATA RECUPERATION FROM DATABASE
 cursor.execute("SELECT articles.doc_id FROM  public.articles ORDER BY doc_id")

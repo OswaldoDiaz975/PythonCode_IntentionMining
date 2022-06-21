@@ -1,7 +1,7 @@
 import psycopg2
 import itertools
 ## DATABASE CONNECTION AND CURSOR DEFINITION
-conexion = psycopg2.connect(database="postgres", user="postgres", password="test")
+conexion = psycopg2.connect(database="postgres", user="postgres", password="phd1522")
 cursor=conexion.cursor()
 ## DATA RECUPERATION FROM DATABASE
 cursor.execute("SELECT strategy_candidate.strategy_name FROM  public.strategy_candidate")

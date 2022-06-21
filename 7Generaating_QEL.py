@@ -1,7 +1,7 @@
 import csv
 import psycopg2
 ## DATABASE CONNECTION AND CURSOR DEFINITION
-conexion = psycopg2.connect("host='localhost' port='5432' dbname='postgres' user='postgres' password='test'")
+conexion = psycopg2.connect("host='localhost' port='5432' dbname='postgres' user='postgres' password='phd1522'")
 cursor=conexion.cursor()
 ## SQL COMMANDS SPECIFICATION
 sql="""INSERT INTO strategy_qel(strategy_name) VALUES (%s)"""
